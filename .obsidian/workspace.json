@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "롯데웰푸드 SFA/반품/반품 전자 결재 상태.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "롯데웰푸드 SFA/반품/반품 전자 결재 상태.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "롯데웰푸드 SFA/반품/반품 전자 결재 상태.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "롯데웰푸드 SFA/반품/반품 전자 결재 상태.md"
               }
             }
           }
@@ -143,11 +143,54 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "d5247f43a7444f63",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Pasted image 20231213160524.png",
+    "Welcome.md",
+    "롯데웰푸드 SFA/반품/클레임 분류 코드.md",
+    "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
+    "롯데웰푸드 SFA/영업활동/영업활동.md",
+    "롯데웰푸드 SFA/반품/반품 프로세스.canvas",
+    "롯데웰푸드 SFA/반품/반품 전자 결재 상태.md",
+    "롯데웰푸드 SFA/반품/반품 오더 사유 - 클레임 분류 코드.canvas",
+    "롯데웰푸드 SFA/반품/품질 반품 사유.md",
+    "롯데웰푸드 SFA/반품/CRM 이미지 등록 프로세스.canvas",
+    "롯데웰푸드 SFA/SFA DB/SFA_SAP_EMP_BSC_TB.md",
+    "롯데웰푸드 SFA/SFA DB/SFA_EXCHANGE_INFO_TB.md",
+    "롯데웰푸드 SFA/SFA DB/SFA_CUST_EMP_REL_TB.md",
+    "롯데웰푸드 SFA/RFC SPEC 파일.md",
+    "롯데웰푸드 SFA/환율 시세.md",
+    "롯데웰푸드 SFA/기준정보.md",
+    "롯데웰푸드 SFA/그래프.md",
+    "롯데웰푸드 SFA/개발 서버.md",
+    "롯데웰푸드 SFA/거래처 기본 정보.md",
+    "롯데웰푸드 SFA/10월 SFA.md",
+    "롯데웰푸드 SFA/작업 카테고리/커뮤니티.md",
+    "롯데웰푸드 SFA/작업 카테고리/카테고리.md",
+    "롯데웰푸드 SFA/작업 카테고리/카테고리 맵.canvas",
+    "롯데웰푸드 SFA/작업 카테고리/영업활동.md",
+    "롯데웰푸드 SFA/작업 카테고리/반품.md",
+    "롯데웰푸드 SFA/작업 카테고리/메인.md",
+    "롯데웰푸드 SFA/작업 카테고리/기준정보.md",
+    "롯데웰푸드 SFA/작업 카테고리/거래처 정보.md",
+    "롯데웰푸드 SFA/작업 카테고리",
+    "롯데웰푸드 SFA/영업활동",
+    "롯데웰푸드 SFA/반품",
+    "롯데웰푸드 SFA/TR전문/LWS6301.md",
+    "롯데웰푸드 SFA/TR전문/LWS6207.md",
+    "롯데웰푸드 SFA/TR전문/LWS6206.md",
+    "롯데웰푸드 SFA/TR전문",
+    "롯데웰푸드 SFA/SFA DB",
+    "롯데웰푸드 SFA/Daily Note",
+    "롯데웰푸드 SFA/Daily Kanban",
+    "롯데웰푸드 SFA/CRM",
+    "롯데웰푸드 SFA",
+    "Pasted image 20231213160502.png",
+    "Pasted image 20231120135739.png",
+    "Pasted image 20231114104100.png"
   ]
 }
