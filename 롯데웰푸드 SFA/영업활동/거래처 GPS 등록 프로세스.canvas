@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"e052c0f312e17d9c","type":"text","text":"거래처 주소 (명칭)\nORT01, STRAS 확인","x":-400,"y":-160,"width":250,"height":60},
+		{"id":"c08810757fcd7684","type":"text","text":"사용자 GPS 좌표 확인","x":0,"y":-160,"width":250,"height":60},
+		{"id":"52f58ac31619c8fe","type":"text","text":"에러 팝업으로","x":-400,"y":-340,"width":250,"height":60,"color":"1"},
+		{"id":"a3eb382db1d1e6ad","type":"text","text":"에러 팝업으로","x":0,"y":-340,"width":250,"height":60,"color":"1"},
+		{"id":"fee4a4e1821b78ac","type":"text","text":"거래처 좌표 확인","x":400,"y":-160,"width":250,"height":60},
+		{"id":"70063593844dc884","type":"text","text":"최초 등록 팝업","x":400,"y":-340,"width":250,"height":60,"color":"2"},
+		{"id":"fa2565b78ef58031","type":"text","text":"현장활동 및 매출 진행","x":760,"y":-160,"width":250,"height":60,"color":"2"},
+		{"id":"993ef72b77c1971b","x":0,"y":-580,"width":250,"height":60,"color":"2","type":"text","text":"현장활동 및 매출 진행"}
+	],
+	"edges":[
+		{"id":"ab71b8b390aa654c","fromNode":"e052c0f312e17d9c","fromSide":"top","toNode":"52f58ac31619c8fe","toSide":"bottom","color":"1","label":"N"},
+		{"id":"e6dfa956db3d2178","fromNode":"e052c0f312e17d9c","fromSide":"right","toNode":"c08810757fcd7684","toSide":"left","color":"5","label":"Y"},
+		{"id":"30a09668c32f9bc9","fromNode":"c08810757fcd7684","fromSide":"top","toNode":"a3eb382db1d1e6ad","toSide":"bottom","color":"1","label":"N"},
+		{"id":"b13ddc1367af82d5","fromNode":"c08810757fcd7684","fromSide":"right","toNode":"fee4a4e1821b78ac","toSide":"left","color":"5"},
+		{"id":"cdc6f3a685d0f522","fromNode":"fee4a4e1821b78ac","fromSide":"top","toNode":"70063593844dc884","toSide":"bottom","label":"N"},
+		{"id":"2bcba73c4b576819","fromNode":"fee4a4e1821b78ac","fromSide":"right","toNode":"fa2565b78ef58031","toSide":"left","label":"Y"},
+		{"id":"2b8143c6caca3cf8","fromNode":"52f58ac31619c8fe","fromSide":"top","toNode":"993ef72b77c1971b","toSide":"bottom"},
+		{"id":"b786afc671cb379d","fromNode":"a3eb382db1d1e6ad","fromSide":"top","toNode":"993ef72b77c1971b","toSide":"bottom"},
+		{"id":"c3b4ac837f2324a4","fromNode":"70063593844dc884","fromSide":"top","toNode":"993ef72b77c1971b","toSide":"bottom"},
+		{"id":"08b6087619619161","fromNode":"fa2565b78ef58031","fromSide":"top","toNode":"993ef72b77c1971b","toSide":"right"}
+	]
+}

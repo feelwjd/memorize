@@ -11,28 +11,18 @@
             "id": "d5247f43a7444f63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "롯데웰푸드 SFA/반품/반품 전자 결재 상태.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b19513fb8f76773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "롯데웰푸드 SFA/영업활동/거래처 GPS 등록 프로세스.canvas",
+                "viewState": {
+                  "x": 334.5,
+                  "y": -220,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "롯데웰푸드 SFA/영업활동/거래처 GPS 등록 프로세스.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "롯데웰푸드 SFA/영업활동/거래처 GPS 등록 프로세스.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "롯데웰푸드 SFA/영업활동/거래처 GPS 등록 프로세스.canvas"
               }
             }
           }
@@ -160,23 +150,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b19513fb8f76773",
+  "active": "d5247f43a7444f63",
   "lastOpenFiles": [
+    "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
+    "롯데웰푸드 SFA/영업활동/거래처 GPS 등록 프로세스.canvas",
+    "롯데웰푸드 SFA/반품/반품 프로세스.canvas",
+    "롯데웰푸드 SFA/반품/반품 오더 사유 - 클레임 분류 코드.canvas",
+    "롯데웰푸드 SFA/반품/CRM 이미지 등록 프로세스.canvas",
+    "롯데웰푸드 SFA/반품/품질 반품 사유.md",
+    "롯데웰푸드 SFA/반품/클레임 분류 코드.md",
     "롯데웰푸드 SFA/반품/반품 전자 결재 상태.md",
+    "롯데웰푸드 SFA/CRM/VOC API.md",
+    "롯데웰푸드 SFA/CRM/VOC TO SFA.md",
+    "롯데웰푸드 SFA/영업활동/영업활동.md",
+    "롯데웰푸드 SFA/영업활동/무제 파일.md",
+    "롯데웰푸드 SFA/RFC SPEC 파일.md",
+    "롯데웰푸드 SFA/Daily Note/2023-10-13.md",
     "README.md",
     "Welcome.md",
     "Pasted image 20231213160524.png",
-    "롯데웰푸드 SFA/반품/클레임 분류 코드.md",
-    "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
-    "롯데웰푸드 SFA/영업활동/영업활동.md",
-    "롯데웰푸드 SFA/반품/반품 프로세스.canvas",
-    "롯데웰푸드 SFA/반품/반품 오더 사유 - 클레임 분류 코드.canvas",
-    "롯데웰푸드 SFA/반품/품질 반품 사유.md",
-    "롯데웰푸드 SFA/반품/CRM 이미지 등록 프로세스.canvas",
     "롯데웰푸드 SFA/SFA DB/SFA_SAP_EMP_BSC_TB.md",
     "롯데웰푸드 SFA/SFA DB/SFA_EXCHANGE_INFO_TB.md",
     "롯데웰푸드 SFA/SFA DB/SFA_CUST_EMP_REL_TB.md",
-    "롯데웰푸드 SFA/RFC SPEC 파일.md",
     "롯데웰푸드 SFA/환율 시세.md",
     "롯데웰푸드 SFA/기준정보.md",
     "롯데웰푸드 SFA/그래프.md",
@@ -189,14 +184,9 @@
     "롯데웰푸드 SFA/작업 카테고리/영업활동.md",
     "롯데웰푸드 SFA/작업 카테고리/반품.md",
     "롯데웰푸드 SFA/작업 카테고리/메인.md",
-    "롯데웰푸드 SFA/작업 카테고리/기준정보.md",
-    "롯데웰푸드 SFA/작업 카테고리/거래처 정보.md",
     "롯데웰푸드 SFA/작업 카테고리",
     "롯데웰푸드 SFA/영업활동",
     "롯데웰푸드 SFA/반품",
-    "롯데웰푸드 SFA/TR전문/LWS6301.md",
-    "롯데웰푸드 SFA/TR전문/LWS6207.md",
-    "롯데웰푸드 SFA/TR전문/LWS6206.md",
     "롯데웰푸드 SFA/TR전문",
     "롯데웰푸드 SFA/SFA DB",
     "롯데웰푸드 SFA/Daily Note",
