@@ -2,12 +2,12 @@
 	"nodes":[
 		{"id":"e052c0f312e17d9c","type":"text","text":"거래처 주소 (명칭)\nORT01, STRAS 확인","x":-400,"y":-160,"width":250,"height":60},
 		{"id":"c08810757fcd7684","type":"text","text":"사용자 GPS 좌표 확인","x":0,"y":-160,"width":250,"height":60},
-		{"id":"52f58ac31619c8fe","type":"text","text":"에러 팝업으로","x":-400,"y":-340,"width":250,"height":60,"color":"1"},
-		{"id":"a3eb382db1d1e6ad","type":"text","text":"에러 팝업으로","x":0,"y":-340,"width":250,"height":60,"color":"1"},
+		{"id":"52f58ac31619c8fe","type":"text","text":"GPS 에러 팝업","x":-400,"y":-340,"width":250,"height":60,"color":"1"},
+		{"id":"a3eb382db1d1e6ad","type":"text","text":"GPS 에러 팝업","x":0,"y":-340,"width":250,"height":60,"color":"1"},
 		{"id":"fee4a4e1821b78ac","type":"text","text":"거래처 좌표 확인","x":400,"y":-160,"width":250,"height":60},
 		{"id":"70063593844dc884","type":"text","text":"최초 등록 팝업","x":400,"y":-340,"width":250,"height":60,"color":"2"},
 		{"id":"fa2565b78ef58031","type":"text","text":"현장활동 및 매출 진행","x":760,"y":-160,"width":250,"height":60,"color":"2"},
-		{"id":"993ef72b77c1971b","x":0,"y":-580,"width":250,"height":60,"color":"2","type":"text","text":"현장활동 및 매출 진행"}
+		{"id":"993ef72b77c1971b","type":"text","text":"현장활동 및 매출 진행","x":0,"y":-580,"width":250,"height":60,"color":"2"}
 	],
 	"edges":[
 		{"id":"ab71b8b390aa654c","fromNode":"e052c0f312e17d9c","fromSide":"top","toNode":"52f58ac31619c8fe","toSide":"bottom","color":"1","label":"N"},
