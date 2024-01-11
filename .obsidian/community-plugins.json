@@ -1,9 +1,9 @@
 [
   "dataview",
-  "table-editor-obsidian",
   "obsidian-kanban",
   "obsidian-git",
   "obsidian-mind-map",
   "obsidian-outliner",
-  "obsidian-mkdocs-publisher"
+  "obsidian-mkdocs-publisher",
+  "table-editor-obsidian"
 ]
