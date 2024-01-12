@@ -6,7 +6,8 @@
 		{"id":"3c77fc95f07a5418","type":"file","file":"롯데웰푸드 SFA/작업 카테고리/반품.md","x":-360,"y":80,"width":400,"height":400},
 		{"id":"d5b11cc2c0d585a8","type":"file","file":"롯데웰푸드 SFA/작업 카테고리/영업활동.md","x":-360,"y":-520,"width":400,"height":400},
 		{"id":"df8dc94bbf892437","type":"file","file":"롯데웰푸드 SFA/작업 카테고리/기준정보.md","x":-360,"y":-1080,"width":400,"height":400},
-		{"id":"5f8c63d1d65ada47","type":"file","file":"롯데웰푸드 SFA/반품/반품 프로세스.canvas","x":400,"y":-20,"width":680,"height":600}
+		{"id":"5f8c63d1d65ada47","type":"file","file":"롯데웰푸드 SFA/반품/반품 프로세스.canvas","x":400,"y":-20,"width":680,"height":600},
+		{"id":"4a653f1221674e60","x":400,"y":-1080,"width":400,"height":400,"type":"file","file":"롯데웰푸드 SFA/작업 카테고리/지점 진열대 신청 및 관리.md"}
 	],
 	"edges":[
 		{"id":"1015e5182c761273","fromNode":"3c77fc95f07a5418","fromSide":"right","toNode":"5f8c63d1d65ada47","toSide":"left"}
