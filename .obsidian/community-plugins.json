@@ -1,3 +1,13 @@
 [
+<<<<<<< master
+=======
+  "dataview",
+  "obsidian-kanban",
+  "obsidian-git",
+  "obsidian-mind-map",
+  "obsidian-outliner",
+  "obsidian-mkdocs-publisher",
+  "table-editor-obsidian",
+>>>>>>> origin/master
   "obsidian-excalidraw-plugin"
 ]
