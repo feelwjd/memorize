@@ -14,12 +14,12 @@
 | SKU | views/_17037462075910/-SKU | TRPT_0131 | api.bi.salesStatus.salesSKU |
 
 ## 매출채권 분석
-| Name | URI | api id |
-| ---- | ---- | ---- |
-| 영업조직,영업사원(현황) | views/_17032340841490/sheet0 | api.bi.tradeReceivable.curSalesForce |
-| 영업조직,영업사원(추이) | views/_17032340841490/sheet1 | api.bi.tradeReceivable.transSalesForce |
-| 거래처(현황) | views/_17032340841490/sheet2 | api.bi.tradeReceivable.curSalesCust |
-| 거래처(추이) | views/_17032340841490/sheet3 | api.bi.tradeReceivable.transSalesCust |
+| Name | URI | api id |  |
+| ---- | ---- | ---- | ---- |
+| 영업조직,영업사원(현황) | views/_17032340841490/sheet0 | api.bi.tradeReceivable.curSalesForce |  |
+| 영업조직,영업사원(추이) | views/_17032340841490/sheet1 | api.bi.tradeReceivable.transSalesForce |  |
+| 거래처(현황) | views/_17032340841490/sheet2 | api.bi.tradeReceivable.curSalesCust |  |
+| 거래처(추이) | views/_17032340841490/sheet3 | api.bi.tradeReceivable.transSalesCust |  |
 
 ## 반품 분석
 | Name | URI |  | api id |
