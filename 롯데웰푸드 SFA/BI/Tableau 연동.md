@@ -3,6 +3,7 @@
 # Tableau
 
 - https://sfabi.lottewellfood.com/
+- https://sfabi.lottewellfood.com/trusted/#/views/_17037462075910/-?
 ## 매출 현황
 | Name | URI | Screen ID | api id |
 | ---- | ---- | ---- | ---- |
@@ -44,3 +45,14 @@
 | 거래처 분류 | views/_17035755428990/sheet2 | TRPT_0120 | api.bi.salesDaily.salesCust |
 | 체인 | views/_17035755428990/sheet3 |  | api.bi.salesDaily.salesChain |
 | 영업사원,거래처 | views/_17035755428990/sheet4 | TRPT_0111, | api.bi.salesDaily.salesPersonByCust |
+
+## 파라미터
+- BB : 본부
+	- 영업본부
+- BM : 부문
+	- 건과시판부문
+	- Hyper부문
+	- ......
+- JS : 지사
+- JJ : 지점
+- SID

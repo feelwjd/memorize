@@ -11,14 +11,11 @@
             "id": "e2d648c5c2f3f12c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
-                "viewState": {
-                  "x": -134.41539065771053,
-                  "y": -833.9390514908806,
-                  "zoom": -1.6696457379882115
-                }
+                "file": "롯데웰푸드 SFA/영업활동/영업활동.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
+                "file": "롯데웰푸드 SFA/영업활동/영업활동.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
+                "file": "롯데웰푸드 SFA/영업활동/영업활동.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas"
+                "file": "롯데웰푸드 SFA/영업활동/영업활동.md"
               }
             }
           },
@@ -162,26 +159,30 @@
   "active": "e2d648c5c2f3f12c",
   "lastOpenFiles": [
     "롯데웰푸드 SFA/영업활동/거래처 GPS 등록 프로세스.canvas",
+    "롯데웰푸드 SFA/반품/CRM 이미지 등록 프로세스.canvas",
+    "롯데웰푸드 SFA/반품/품질 반품 사유.md",
+    "롯데웰푸드 SFA/반품/클레임 분류 코드.md",
+    "롯데웰푸드 SFA/반품/반품 상태.md",
+    "롯데웰푸드 SFA/반품/반품 오더 사유 - 클레임 분류 코드.canvas",
+    "롯데웰푸드 SFA/반품/반품 전자 결재 상태.md",
+    "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
+    "롯데웰푸드 SFA/작업 카테고리/거래처 정보.md",
+    "롯데웰푸드 SFA/반품/반품 프로세스.canvas",
     "롯데웰푸드 SFA/영업활동/영업활동.md",
     "롯데웰푸드 SFA/BI/Tableau 연동.md",
+    "롯데웰푸드 SFA/Daily Kanban/커뮤니티.md",
+    "롯데웰푸드 SFA/Daily Kanban/영업활동.md",
+    "롯데웰푸드 SFA/Daily Kanban/행사.md",
     "롯데웰푸드 SFA/커뮤니티/DRM 파일 다운로드.md",
     "롯데웰푸드 SFA/커뮤니티",
-    "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
     "롯데웰푸드 SFA/오픈/2024-01-15.md",
     "롯데웰푸드 SFA/Daily Note/2023-11-24.md",
     "롯데웰푸드 SFA/오픈",
-    "롯데웰푸드 SFA/반품/반품 상태.md",
-    "롯데웰푸드 SFA/반품/품질 반품 사유.md",
-    "롯데웰푸드 SFA/반품/클레임 분류 코드.md",
-    "롯데웰푸드 SFA/반품/반품 프로세스.canvas",
-    "롯데웰푸드 SFA/반품/반품 전자 결재 상태.md",
-    "롯데웰푸드 SFA/반품/반품 오더 사유 - 클레임 분류 코드.canvas",
     "롯데웰푸드 SFA/Daily Kanban/반품.md",
     "Excalidraw/Drawing 2024-01-12 14.44.04.excalidraw.md",
     "Excalidraw",
     "롯데웰푸드 SFA/Daily Kanban/메인화면.md",
     "롯데웰푸드 SFA/CRM/VOC TO SFA.md",
-    "롯데웰푸드 SFA/반품/CRM 이미지 등록 프로세스.canvas",
     "개인 메모/서버 이중화 세션 이관.md",
     "개인 메모/SQLP.md",
     "롯데웰푸드 SFA/작업 카테고리/지점 진열대 신청 및 관리.md",
@@ -191,11 +192,7 @@
     "롯데웰푸드 SFA/작업 카테고리/BI_DW.md",
     "롯데웰푸드 SFA/작업 카테고리/영업활동.md",
     "롯데웰푸드 SFA/작업 카테고리/카테고리 맵.canvas",
-    "롯데웰푸드 SFA/Daily Kanban/영업활동.md",
     "롯데웰푸드 SFA/작업 카테고리/현황보고서.md",
-    "롯데웰푸드 SFA/작업 카테고리/반품.md",
-    "롯데웰푸드 SFA/작업 카테고리/메인.md",
-    "롯데웰푸드 SFA/작업 카테고리/기준정보.md",
     "개인 메모",
     "Pasted image 20231213160524.png",
     "롯데웰푸드 SFA/작업 카테고리",
