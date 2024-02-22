@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "23720b7664a0dc1e",
+        "id": "484b3f54379883e7",
         "type": "tabs",
         "children": [
           {
-            "id": "e2d648c5c2f3f12c",
+            "id": "403f4dd490ab1911",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "롯데웰푸드 SFA/오픈/2024-02-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52f5c518e5ee2d3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "롯데웰푸드 SFA/피플/피플네트웍스 회의 2024-02-15.md",
+                "file": "개인 메모/하나TI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "롯데웰푸드 SFA/피플/피플네트웍스 회의 2024-02-15.md",
+                "file": "개인 메모/하나TI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "롯데웰푸드 SFA/피플/피플네트웍스 회의 2024-02-15.md",
+                "file": "개인 메모/하나TI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "롯데웰푸드 SFA/피플/피플네트웍스 회의 2024-02-15.md"
+                "file": "개인 메모/하나TI.md"
               }
             }
           },
@@ -170,42 +157,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52f5c518e5ee2d3d",
+  "active": "403f4dd490ab1911",
   "lastOpenFiles": [
-    "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
-    "롯데웰푸드 SFA/피플/피플네트웍스 회의 2024-02-15.md",
-    "롯데웰푸드 SFA/피플",
-    "롯데웰푸드 SFA/영업활동/영업활동.md",
-    "롯데웰푸드 SFA/영업활동/거래처 GPS 등록 프로세스.canvas",
-    "롯데웰푸드 SFA/반품/반품 프로세스.canvas",
+    "개인 메모/하나TI.md",
     "롯데웰푸드 SFA/반품/품질 반품 사유.md",
     "롯데웰푸드 SFA/반품/CRM 이미지 등록 프로세스.canvas",
-    "롯데웰푸드 SFA/인수인계/일정.md",
-    "롯데웰푸드 SFA/RFC SPEC 파일.md",
-    "롯데웰푸드 SFA/Daily Kanban/반품.md",
-    "롯데웰푸드 SFA/Daily Kanban/메인화면.md",
-    "롯데웰푸드 SFA/Daily Kanban/2023-11-21.md",
-    "롯데웰푸드 SFA/CRM/VOC TO SFA.md",
-    "롯데웰푸드 SFA/CRM/VOC API.md",
-    "롯데웰푸드 SFA/BI/Tableau 연동.md",
-    "롯데웰푸드 SFA/BI/BI 화면 리뉴얼.md",
-    "롯데웰푸드 SFA/인수인계/SFA SERVER.md",
-    "Pasted image 20240213091453.png",
-    "롯데웰푸드 SFA/오픈/2024-02-07.md",
-    "롯데웰푸드 SFA/인수인계",
-    "롯데웰푸드 SFA/오픈/2024-01-15.md",
-    "롯데웰푸드 SFA/오픈/2024-02-01.md",
-    "롯데웰푸드 SFA/작업 카테고리/커뮤니티.md",
-    "롯데웰푸드 SFA/작업 카테고리/현황보고서.md",
-    "롯데웰푸드 SFA/Daily Kanban/영업활동.md",
-    "Excalidraw/Drawing 2024-01-12 14.44.04.excalidraw.md",
-    "롯데웰푸드 SFA/작업 카테고리/지점 진열대 신청 및 관리.md",
-    "롯데웰푸드 SFA/작업 카테고리/카테고리.md",
-    "롯데웰푸드 SFA/작업 카테고리/거래처 정보.md",
-    "롯데웰푸드 SFA/작업 카테고리/기준정보.md",
+    "롯데웰푸드 SFA/차량_장비/장비 2024-02-21 회의.md",
+    "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
+    "롯데웰푸드 SFA/차량_장비",
+    "롯데웰푸드 SFA/영업활동/거래처 GPS 등록 프로세스.canvas",
+    "롯데웰푸드 SFA/피플/피플 거래처 매핑 수정사항.md",
+    "롯데웰푸드 SFA/피플/피플네트웍스 회의 2024-02-15.md",
+    "롯데웰푸드 SFA/반품/반품 프로세스.canvas",
+    "롯데웰푸드 SFA/반품/클레임 분류 코드.md",
+    "롯데웰푸드 SFA/반품/반품 전자 결재 상태.md",
     "롯데웰푸드 SFA/반품/반품 상태.md",
     "롯데웰푸드 SFA/반품/반품 오더 사유 - 클레임 분류 코드.canvas",
+    "롯데웰푸드 SFA/오픈/2024-02-19.md",
+    "롯데웰푸드 SFA/오픈/2024-02-07.md",
     "롯데웰푸드 SFA/작업 카테고리/카테고리 맵.canvas",
+    "롯데웰푸드 SFA/영업활동/영업활동.md",
+    "롯데웰푸드 SFA/영업활동/Push 메세지.md",
+    "롯데웰푸드 SFA/작업 카테고리/지점 진열대 신청 및 관리.md",
+    "롯데웰푸드 SFA/커뮤니티/DRM 파일 다운로드.md",
+    "Excalidraw/Drawing 2024-01-12 14.44.04.excalidraw.md",
+    "롯데웰푸드 SFA/RFC SPEC 파일.md",
+    "롯데웰푸드 SFA/그래프.md",
+    "롯데웰푸드 SFA/Daily Kanban/반품.md",
+    "롯데웰푸드 SFA/Daily Kanban/메인화면.md",
+    "롯데웰푸드 SFA/CRM/VOC API.md",
+    "롯데웰푸드 SFA/CRM/VOC TO SFA.md",
+    "롯데웰푸드 SFA/BI/BI 화면 리뉴얼.md",
+    "롯데웰푸드 SFA/BI/Tableau 연동.md",
+    "롯데웰푸드 SFA/작업 카테고리/거래처 정보.md",
+    "롯데웰푸드 SFA/작업 카테고리/메인.md",
+    "롯데웰푸드 SFA/작업 카테고리/반품.md",
+    "롯데웰푸드 SFA/피플",
+    "Pasted image 20240213091453.png",
+    "롯데웰푸드 SFA/인수인계",
     "롯데웰푸드 SFA/커뮤니티",
     "롯데웰푸드 SFA/오픈",
     "Excalidraw",
@@ -214,7 +203,6 @@
     "Pasted image 20231213160524.png",
     "롯데웰푸드 SFA/작업 카테고리",
     "롯데웰푸드 SFA/영업활동",
-    "롯데웰푸드 SFA/반품",
     "Pasted image 20231213160502.png",
     "Pasted image 20231120135739.png",
     "Pasted image 20231114104100.png"
