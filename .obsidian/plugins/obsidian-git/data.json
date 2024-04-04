@@ -18,7 +18,11 @@
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
+<<<<<<< HEAD
   "changedFilesInStatusBar": false,
+=======
+  "changedFilesInStatusBar": true,
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
@@ -47,7 +51,13 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
+<<<<<<< HEAD
     "gutterSpacingFallbackLength": 5
+=======
+    "gutterSpacingFallbackLength": 5,
+    "lastShownAuthorDisplay": "initials",
+    "lastShownDateTimeFormatOptions": "date"
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
   },
   "autoCommitMessage": "vault backup: {{date}}"
 }

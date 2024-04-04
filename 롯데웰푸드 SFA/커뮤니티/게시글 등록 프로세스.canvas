@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"08674aa63f4c6a2d","x":-100,"y":-60,"width":250,"height":60,"color":"2","type":"text","text":"고정 게시글 여부 및 최대 개수 확인"},
+		{"id":"bcc697a4dbec7520","x":240,"y":-60,"width":250,"height":60,"color":"2","type":"text","text":"게시글 생성"},
+		{"id":"2a957b0cd15731b5","x":580,"y":-60,"width":250,"height":60,"color":"2","type":"text","text":"첨부파일 \n등록/업데이트/삭제"},
+		{"id":"7f1ad83869d1a9fc","x":-420,"y":-60,"width":250,"height":60,"color":"2","type":"text","text":"커뮤니티 게시글 등록"},
+		{"id":"a4fe3d8c88ce0815","x":-100,"y":84,"width":250,"height":60,"color":"2","type":"text","text":"가장 먼저 고정된 게시글 고정 해제"},
+		{"id":"51f11ee5c6746a5c","x":240,"y":84,"width":250,"height":60,"color":"2","type":"text","text":"게시글 업데이트/삭제"},
+		{"id":"6b6e823c79c76f80","type":"text","text":"댓글 생성","x":240,"y":260,"width":250,"height":60,"color":"2"},
+		{"id":"e26e0920d59a1ab9","type":"text","text":"첨부파일 \n등록/업데이트/삭제","x":580,"y":260,"width":250,"height":60,"color":"2"},
+		{"id":"f807eed9a58f0804","type":"text","text":"댓글 업데이트/삭제","x":240,"y":404,"width":250,"height":60,"color":"2"},
+		{"id":"02784e4d18d84188","type":"text","text":"커뮤니티 댓글 등록","x":-100,"y":260,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"4a0b2b38bb245489","fromNode":"7f1ad83869d1a9fc","fromSide":"right","toNode":"08674aa63f4c6a2d","toSide":"left"},
+		{"id":"1123df89f91a6e62","fromNode":"08674aa63f4c6a2d","fromSide":"bottom","toNode":"a4fe3d8c88ce0815","toSide":"top","label":"3개 이상"},
+		{"id":"465898d0f1ad6b68","fromNode":"08674aa63f4c6a2d","fromSide":"right","toNode":"bcc697a4dbec7520","toSide":"left"},
+		{"id":"d41f0571e6939b83","fromNode":"08674aa63f4c6a2d","fromSide":"right","toNode":"51f11ee5c6746a5c","toSide":"left"},
+		{"id":"e78b81079e2014d0","fromNode":"51f11ee5c6746a5c","fromSide":"right","toNode":"2a957b0cd15731b5","toSide":"left"},
+		{"id":"15a866cdba2a6c4d","fromNode":"bcc697a4dbec7520","fromSide":"right","toNode":"2a957b0cd15731b5","toSide":"left"},
+		{"id":"24c7cab0a8a11f85","fromNode":"6b6e823c79c76f80","fromSide":"right","toNode":"e26e0920d59a1ab9","toSide":"left"},
+		{"id":"5c9c78f082677087","fromNode":"f807eed9a58f0804","fromSide":"right","toNode":"e26e0920d59a1ab9","toSide":"left"},
+		{"id":"93df659f155995cd","fromNode":"02784e4d18d84188","fromSide":"right","toNode":"6b6e823c79c76f80","toSide":"left"},
+		{"id":"5715cc53f25d4d12","fromNode":"02784e4d18d84188","fromSide":"right","toNode":"f807eed9a58f0804","toSide":"left"}
+	]
+}

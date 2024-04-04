@@ -1,1 +1,20 @@
+<<<<<<< HEAD
 {}
+=======
+{
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ]
+}
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126

@@ -25,8 +25,14 @@
 		{"id":"a824c6850f38cc50","type":"text","text":"거래처 GPS 정보 호출","x":-150,"y":-1060,"width":250,"height":60},
 		{"id":"402c9c37520e44b0","type":"text","text":"거래처 GPS 범위 계산","x":-150,"y":-900,"width":250,"height":60},
 		{"id":"5c9fcd82fe714138","type":"text","text":"최초 거래처 주소 등록","x":202,"y":-1060,"width":250,"height":60},
+<<<<<<< HEAD
 		{"id":"a4dee8ea8a385c1f","x":646,"y":-1060,"width":281,"height":60,"color":"5","type":"text","text":"현장활동 프로세스로 이동"},
 		{"id":"c3c9a78b23c8dd9f","type":"text","text":"방문계획 ALERT","x":-1820,"y":-930,"width":250,"height":60}
+=======
+		{"id":"a4dee8ea8a385c1f","type":"text","text":"현장활동 프로세스로 이동","x":646,"y":-1060,"width":281,"height":60,"color":"5"},
+		{"id":"c3c9a78b23c8dd9f","type":"text","text":"방문계획 ALERT","x":-1820,"y":-930,"width":250,"height":60},
+		{"id":"68583e8b378845d2","type":"file","file":"롯데웰푸드 SFA/영업활동/거래처 GPS 등록 프로세스.canvas","x":-955,"y":-1328,"width":350,"height":298}
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
 	],
 	"edges":[
 		{"id":"cd4fd251d28c8230","fromNode":"f5529f327b48f9f8","fromSide":"right","toNode":"38b863f106d2ff1e","toSide":"left"},
@@ -59,9 +65,17 @@
 		{"id":"21c224175101318d","fromNode":"0cd87b1116873084","fromSide":"right","toNode":"7771ceff02f33d06","toSide":"left","color":"1"},
 		{"id":"1cb91eaefdb0c059","fromNode":"a824c6850f38cc50","fromSide":"right","toNode":"5c9fcd82fe714138","toSide":"left"},
 		{"id":"5dbcfc2e11b23df8","fromNode":"a824c6850f38cc50","fromSide":"bottom","toNode":"402c9c37520e44b0","toSide":"top"},
+<<<<<<< HEAD
 		{"id":"0660f8c35520eb43","fromNode":"402c9c37520e44b0","fromSide":"left","toNode":"7771ceff02f33d06","toSide":"left","color":"1"},
 		{"id":"ba60ab371139ab13","fromNode":"5c9fcd82fe714138","fromSide":"right","toNode":"a4dee8ea8a385c1f","toSide":"left","color":"5"},
 		{"id":"72885a69b25dc96c","fromNode":"402c9c37520e44b0","fromSide":"right","toNode":"a4dee8ea8a385c1f","toSide":"left","color":"5"},
 		{"id":"438d7516ba0c41ed","fromNode":"7771ceff02f33d06","fromSide":"right","toNode":"a4dee8ea8a385c1f","toSide":"left","color":"5"}
+=======
+		{"id":"ba60ab371139ab13","fromNode":"5c9fcd82fe714138","fromSide":"right","toNode":"a4dee8ea8a385c1f","toSide":"left","color":"5"},
+		{"id":"72885a69b25dc96c","fromNode":"402c9c37520e44b0","fromSide":"right","toNode":"a4dee8ea8a385c1f","toSide":"left","color":"5"},
+		{"id":"438d7516ba0c41ed","fromNode":"7771ceff02f33d06","fromSide":"right","toNode":"a4dee8ea8a385c1f","toSide":"left","color":"5"},
+		{"id":"0660f8c35520eb43","fromNode":"402c9c37520e44b0","fromSide":"left","toNode":"7771ceff02f33d06","toSide":"left","color":"1"},
+		{"id":"095e94813aa510e3","fromNode":"f09f16743e5248ed","fromSide":"left","toNode":"68583e8b378845d2","toSide":"right","color":"6"}
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
 	]
 }

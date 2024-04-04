@@ -29417,6 +29417,14 @@ function getDisplayPath(path2) {
     return path2;
   return path2.split("/").last().replace(".md", "");
 }
+<<<<<<< HEAD
+=======
+function formatMinutes(minutes) {
+  if (minutes === 1)
+    return "1 minute";
+  return `${minutes} minutes`;
+}
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
 
 // src/gitManager/gitManager.ts
 init_polyfill_buffer();
@@ -29942,10 +29950,22 @@ var SimpleGit = class extends GitManager {
     };
   }
   async getRemoteUrl(remote) {
+<<<<<<< HEAD
     return await this.git.remote(
       ["get-url", remote],
       (err, url) => this.onError(err)
     ) || void 0;
+=======
+    try {
+      await this.git.remote(["get-url", remote]);
+    } catch (error) {
+      if (error.toString().contains(remote)) {
+        return void 0;
+      } else {
+        this.onError(error);
+      }
+    }
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
   }
   // https://github.com/kometenstaub/obsidian-version-history-diff/issues/3
   async log(file, relativeToVault = true, limit) {
@@ -31280,7 +31300,11 @@ var IsomorphicGit = class extends GitManager {
       await this.checkAuthorInfo();
       this.plugin.setState(4 /* commit */);
       const formatMessage = await this.formatCommitMessage(message);
+<<<<<<< HEAD
       const hadConflict = this.plugin.localStorage.getConflict() === "true";
+=======
+      const hadConflict = this.plugin.localStorage.getConflict();
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       let parent = void 0;
       if (hadConflict) {
         const branchInfo = await this.branchInfo();
@@ -31293,7 +31317,11 @@ var IsomorphicGit = class extends GitManager {
           parent
         })
       );
+<<<<<<< HEAD
       this.plugin.localStorage.setConflict("false");
+=======
+      this.plugin.localStorage.setConflict(false);
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       return;
     } catch (error) {
       this.plugin.displayError(error);
@@ -32167,7 +32195,13 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
                 plugin.settings.autoSaveInterval
               );
               new import_obsidian8.Notice(
+<<<<<<< HEAD
                 `Automatic ${commitOrBackup} enabled! Every ${plugin.settings.autoSaveInterval} minutes.`
+=======
+                `Automatic ${commitOrBackup} enabled! Every ${formatMinutes(
+                  plugin.settings.autoSaveInterval
+                )}.`
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
               );
             } else if (plugin.settings.autoSaveInterval <= 0) {
               plugin.clearAutoBackup() && new import_obsidian8.Notice(
@@ -32180,8 +32214,17 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
         })
       );
       if (!plugin.settings.setLastSaveToLastCommit)
+<<<<<<< HEAD
         new import_obsidian8.Setting(containerEl).setName(`Auto Backup after stop editing any file`).setDesc(
           `Requires the ${commitOrBackup} interval not to be 0. If turned on, do auto ${commitOrBackup} every ${plugin.settings.autoSaveInterval} minutes after stop editing any file. This also prevents auto ${commitOrBackup} while editing a file. If turned off, it's independent from the last change.`
+=======
+        new import_obsidian8.Setting(containerEl).setName(`Auto Backup after stopping file edits`).setDesc(
+          `Requires the ${commitOrBackup} interval not to be 0.
+                        If turned on, do auto ${commitOrBackup} every ${formatMinutes(
+            plugin.settings.autoSaveInterval
+          )} after stopping file edits.
+                        This also prevents auto ${commitOrBackup} while editing a file. If turned off, it's independent from the last change.`
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
         ).addToggle(
           (toggle) => toggle.setValue(plugin.settings.autoBackupAfterFileChange).onChange((value) => {
             plugin.settings.autoBackupAfterFileChange = value;
@@ -32221,7 +32264,13 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
                   plugin.settings.autoPushInterval
                 );
                 new import_obsidian8.Notice(
+<<<<<<< HEAD
                   `Automatic push enabled! Every ${plugin.settings.autoPushInterval} minutes.`
+=======
+                  `Automatic push enabled! Every ${formatMinutes(
+                    plugin.settings.autoPushInterval
+                  )}.`
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
                 );
               } else if (plugin.settings.autoPushInterval <= 0) {
                 plugin.clearAutoPush() && new import_obsidian8.Notice(
@@ -32249,7 +32298,13 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
                 plugin.settings.autoPullInterval
               );
               new import_obsidian8.Notice(
+<<<<<<< HEAD
                 `Automatic pull enabled! Every ${plugin.settings.autoPullInterval} minutes.`
+=======
+                `Automatic pull enabled! Every ${formatMinutes(
+                  plugin.settings.autoPullInterval
+                )}.`
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
               );
             } else if (plugin.settings.autoPullInterval <= 0) {
               plugin.clearAutoPull() && new import_obsidian8.Notice("Automatic pull disabled!");
@@ -32413,7 +32468,11 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
         plugin.saveSettings();
       })
     );
+<<<<<<< HEAD
     new import_obsidian8.Setting(containerEl).setName("Show changes files count in status bar").addToggle(
+=======
+    new import_obsidian8.Setting(containerEl).setName("Show the count of modified files in the status bar").addToggle(
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       (toggle) => toggle.setValue(plugin.settings.changedFilesInStatusBar).onChange((value) => {
         plugin.settings.changedFilesInStatusBar = value;
         plugin.saveSettings();
@@ -33972,6 +34031,10 @@ var StatusBar = class {
     this.messages = [];
     this.base = "obsidian-git-statusbar-";
     this.statusBarEl.setAttribute("aria-label-position", "top");
+<<<<<<< HEAD
+=======
+    this.statusBarEl.setAttribute("data-tooltip-position", "top");
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
     addEventListener("git-refresh", this.refreshCommitTimestamp.bind(this));
   }
   displayMessage(message, timeout) {
@@ -34224,7 +34287,11 @@ async function getData(manager) {
     `remote.${remote}.url`
   );
   const [isGitHub, httpsUser, httpsRepo, sshUser, sshRepo] = remoteUrl.match(
+<<<<<<< HEAD
     /(?:^https:\/\/github\.com\/(.*)\/(.*)\.git$)|(?:^git@github\.com:(.*)\/(.*)\.git$)/
+=======
+    /(?:^https:\/\/github\.com\/(.*)\/(.*)\.git$)|(?:^[a-zA-Z]+@github\.com:(.*)\/(.*)\.git$)/
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
   );
   return {
     result: "success",
@@ -34282,10 +34349,17 @@ var LocalStorageSettings = class {
     return app.saveLocalStorage(this.prefix + "hostname", value);
   }
   getConflict() {
+<<<<<<< HEAD
     return app.loadLocalStorage(this.prefix + "conflict");
   }
   setConflict(value) {
     return app.saveLocalStorage(this.prefix + "conflict", value);
+=======
+    return app.loadLocalStorage(this.prefix + "conflict") == "true";
+  }
+  setConflict(value) {
+    return app.saveLocalStorage(this.prefix + "conflict", `${value}`);
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
   }
   getLastAutoPull() {
     return app.loadLocalStorage(this.prefix + "lastAutoPull");
@@ -37069,6 +37143,15 @@ function create_fragment(ctx) {
         /*side*/
         ctx[3]
       );
+<<<<<<< HEAD
+=======
+      attr(
+        div3,
+        "data-tooltip-position",
+        /*side*/
+        ctx[3]
+      );
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       attr(div3, "aria-label", div3_aria_label_value = /*diff*/
       ctx[0].vault_path);
       toggle_class(
@@ -37164,6 +37247,18 @@ function create_fragment(ctx) {
           ctx2[3]
         );
       }
+<<<<<<< HEAD
+=======
+      if (dirty & /*side*/
+      8) {
+        attr(
+          div3,
+          "data-tooltip-position",
+          /*side*/
+          ctx2[3]
+        );
+      }
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       if (dirty & /*diff*/
       1 && div3_aria_label_value !== (div3_aria_label_value = /*diff*/
       ctx2[0].vault_path)) {
@@ -37330,6 +37425,15 @@ function create_else_block(ctx) {
         /*side*/
         ctx[5]
       );
+<<<<<<< HEAD
+=======
+      attr(
+        div3,
+        "data-tooltip-position",
+        /*side*/
+        ctx[5]
+      );
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       attr(div3, "aria-label", div3_aria_label_value = /*entity*/
       ctx[8].vaultPath);
       attr(div4, "class", "tree-item nav-folder");
@@ -37389,6 +37493,18 @@ function create_else_block(ctx) {
           ctx[5]
         );
       }
+<<<<<<< HEAD
+=======
+      if (!current || dirty & /*side*/
+      32) {
+        attr(
+          div3,
+          "data-tooltip-position",
+          /*side*/
+          ctx[5]
+        );
+      }
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       if (!current || dirty & /*hierarchy*/
       1 && div3_aria_label_value !== (div3_aria_label_value = /*entity*/
       ctx[8].vaultPath)) {
@@ -38178,6 +38294,15 @@ function create_fragment3(ctx) {
         /*side*/
         ctx[5]
       );
+<<<<<<< HEAD
+=======
+      attr(
+        div1,
+        "data-tooltip-position",
+        /*side*/
+        ctx[5]
+      );
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       attr(div3, "class", "tree-item-self is-clickable nav-folder-title");
       attr(div4, "class", "tree-item nav-folder");
       toggle_class(
@@ -38256,6 +38381,18 @@ function create_fragment3(ctx) {
           ctx2[5]
         );
       }
+<<<<<<< HEAD
+=======
+      if (!current || dirty & /*side*/
+      32) {
+        attr(
+          div1,
+          "data-tooltip-position",
+          /*side*/
+          ctx2[5]
+        );
+      }
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       if (!/*isCollapsed*/
       ctx2[4]) {
         if (if_block1) {
@@ -39038,6 +39175,15 @@ function create_fragment5(ctx) {
         /*side*/
         ctx[3]
       );
+<<<<<<< HEAD
+=======
+      attr(
+        div6,
+        "data-tooltip-position",
+        /*side*/
+        ctx[3]
+      );
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       attr(div6, "aria-label", div6_aria_label_value = /*change*/
       ctx[0].vault_path);
       toggle_class(
@@ -39154,6 +39300,18 @@ function create_fragment5(ctx) {
           ctx2[3]
         );
       }
+<<<<<<< HEAD
+=======
+      if (dirty & /*side*/
+      8) {
+        attr(
+          div6,
+          "data-tooltip-position",
+          /*side*/
+          ctx2[3]
+        );
+      }
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       if (dirty & /*change*/
       1 && div6_aria_label_value !== (div6_aria_label_value = /*change*/
       ctx2[0].vault_path)) {
@@ -39349,6 +39507,15 @@ function create_fragment6(ctx) {
         /*side*/
         ctx[1]
       );
+<<<<<<< HEAD
+=======
+      attr(
+        div2,
+        "data-tooltip-position",
+        /*side*/
+        ctx[1]
+      );
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       attr(div2, "aria-label", div2_aria_label_value = /*change*/
       ctx[0].vault_path);
       attr(main, "class", "tree-item nav-file svelte-1wbh8tp");
@@ -39418,6 +39585,18 @@ function create_fragment6(ctx) {
           ctx2[1]
         );
       }
+<<<<<<< HEAD
+=======
+      if (dirty & /*side*/
+      2) {
+        attr(
+          div2,
+          "data-tooltip-position",
+          /*side*/
+          ctx2[1]
+        );
+      }
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       if (dirty & /*change*/
       1 && div2_aria_label_value !== (div2_aria_label_value = /*change*/
       ctx2[0].vault_path)) {
@@ -39585,6 +39764,15 @@ function create_fragment7(ctx) {
         /*side*/
         ctx[3]
       );
+<<<<<<< HEAD
+=======
+      attr(
+        div5,
+        "data-tooltip-position",
+        /*side*/
+        ctx[3]
+      );
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       attr(div5, "aria-label", div5_aria_label_value = /*change*/
       ctx[0].vault_path);
       toggle_class(
@@ -39694,6 +39882,18 @@ function create_fragment7(ctx) {
           ctx2[3]
         );
       }
+<<<<<<< HEAD
+=======
+      if (dirty & /*side*/
+      8) {
+        attr(
+          div5,
+          "data-tooltip-position",
+          /*side*/
+          ctx2[3]
+        );
+      }
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       if (dirty & /*change*/
       1 && div5_aria_label_value !== (div5_aria_label_value = /*change*/
       ctx2[0].vault_path)) {
@@ -39727,7 +39927,10 @@ function create_fragment7(ctx) {
   };
 }
 function instance7($$self, $$props, $$invalidate) {
+<<<<<<< HEAD
   let formattedPath;
+=======
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
   let side;
   let { change } = $$props;
   let { view } = $$props;
@@ -39783,11 +39986,14 @@ function instance7($$self, $$props, $$invalidate) {
       $$invalidate(8, manager = $$props2.manager);
   };
   $$self.$$.update = () => {
+<<<<<<< HEAD
     if ($$self.$$.dirty & /*change*/
     1) {
       $:
         formattedPath = change.vault_path;
     }
+=======
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
     if ($$self.$$.dirty & /*view*/
     2) {
       $:
@@ -39920,6 +40126,15 @@ function create_else_block3(ctx) {
         /*side*/
         ctx[6]
       );
+<<<<<<< HEAD
+=======
+      attr(
+        div6,
+        "data-tooltip-position",
+        /*side*/
+        ctx[6]
+      );
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       attr(div6, "aria-label", div6_aria_label_value = /*entity*/
       ctx[15].vaultPath);
       attr(div7, "class", "tree-item nav-folder");
@@ -39995,6 +40210,18 @@ function create_else_block3(ctx) {
           ctx[6]
         );
       }
+<<<<<<< HEAD
+=======
+      if (!current || dirty & /*side*/
+      64) {
+        attr(
+          div6,
+          "data-tooltip-position",
+          /*side*/
+          ctx[6]
+        );
+      }
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       if (!current || dirty & /*hierarchy*/
       1 && div6_aria_label_value !== (div6_aria_label_value = /*entity*/
       ctx[15].vaultPath)) {
@@ -43597,7 +43824,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
   }) {
     if (!await this.isAllInitialized())
       return false;
+<<<<<<< HEAD
     let hadConflict = this.localStorage.getConflict() === "true";
+=======
+    let hadConflict = this.localStorage.getConflict();
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
     let changedFiles;
     let status2;
     let unstagedFiles;
@@ -43605,7 +43836,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       this.mayDeleteConflictFile();
       status2 = await this.updateCachedStatus();
       if (status2.conflicted.length == 0) {
+<<<<<<< HEAD
         this.localStorage.setConflict("false");
+=======
+        this.localStorage.setConflict(false);
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
         hadConflict = false;
       }
       if (fromAutoBackup && status2.conflicted.length > 0) {
@@ -43671,7 +43906,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       }
       if (this.gitManager instanceof SimpleGit) {
         if ((await this.updateCachedStatus()).conflicted.length == 0) {
+<<<<<<< HEAD
           this.localStorage.setConflict("false");
+=======
+          this.localStorage.setConflict(false);
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
         }
       }
       let roughly = false;
@@ -43723,7 +43962,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     if (!await this.remotesAreSet()) {
       return false;
     }
+<<<<<<< HEAD
     const hadConflict = this.localStorage.getConflict() === "true";
+=======
+    const hadConflict = this.localStorage.getConflict();
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
     if (this.gitManager instanceof SimpleGit)
       await this.mayDeleteConflictFile();
     let status2;
@@ -43786,7 +44029,12 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     );
     if (file) {
       this.app.workspace.iterateAllLeaves((leaf) => {
+<<<<<<< HEAD
         if (leaf.view instanceof import_obsidian30.MarkdownView && leaf.view.file.path == file.path) {
+=======
+        var _a2;
+        if (leaf.view instanceof import_obsidian30.MarkdownView && ((_a2 = leaf.view.file) == null ? void 0 : _a2.path) == file.path) {
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
           leaf.detach();
         }
       });
@@ -43909,7 +44157,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       }
     }
     if (!this.timeoutIDBackup && !this.onFileModifyEventRef) {
+<<<<<<< HEAD
       const lastAutos = await this.loadLastAuto();
+=======
+      const lastAutos = this.loadLastAuto();
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       if (this.settings.autoSaveInterval > 0) {
         const now2 = /* @__PURE__ */ new Date();
         const diff2 = this.settings.autoSaveInterval - Math.round(
@@ -43921,7 +44173,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
   }
   async setUpAutos() {
     this.setUpAutoBackup();
+<<<<<<< HEAD
     const lastAutos = await this.loadLastAuto();
+=======
+    const lastAutos = this.loadLastAuto();
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
     if (this.settings.differentIntervalCommitAndPush && this.settings.autoPushInterval > 0) {
       const now2 = /* @__PURE__ */ new Date();
       const diff2 = this.settings.autoPushInterval - Math.round(
@@ -44044,7 +44300,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
   }
   async handleConflict(conflicted) {
     this.setState(6 /* conflicted */);
+<<<<<<< HEAD
     this.localStorage.setConflict("true");
+=======
+    this.localStorage.setConflict(true);
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
     let lines;
     if (conflicted !== void 0) {
       lines = [

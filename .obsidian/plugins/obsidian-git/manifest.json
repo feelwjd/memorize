@@ -5,5 +5,9 @@
     "isDesktopOnly": false,
     "fundingUrl": "https://ko-fi.com/vinzent",
     "js": "main.js",
+<<<<<<< HEAD
     "version": "2.22.0"
+=======
+    "version": "2.22.1"
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
 }

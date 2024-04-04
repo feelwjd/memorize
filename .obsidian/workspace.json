@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "34fe8890e5a223ed",
     "type": "split",
     "children": [
@@ -9,10 +10,22 @@
         "children": [
           {
             "id": "eeb9d4104f07ac45",
+=======
+    "id": "dd8427b26206797d",
+    "type": "split",
+    "children": [
+      {
+        "id": "484b3f54379883e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "403f4dd490ab1911",
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "롯데웰푸드 SFA/Daily Note/2023-10-04.md",
                 "mode": "source",
                 "source": false
@@ -188,18 +201,26 @@
               "type": "markdown",
               "state": {
                 "file": "롯데웰푸드 SFA/Daily Note/2023-10-12.md",
+=======
+                "file": "롯데웰푸드 SFA/작업 카테고리/기능 현황.md",
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
                 "mode": "source",
                 "source": false
               }
             }
           }
+<<<<<<< HEAD
         ],
         "currentTab": 13
+=======
+        ]
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "0863d604600adeac",
     "type": "split",
     "children": [
@@ -209,6 +230,17 @@
         "children": [
           {
             "id": "b8ae2078356ac379",
+=======
+    "id": "89e199482bd41f39",
+    "type": "split",
+    "children": [
+      {
+        "id": "33cdf27cdf3cad6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b82d6c95f1797e9b",
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -218,12 +250,20 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "8772c9f6a58dbf1e",
+=======
+            "id": "44deb4719e5717f8",
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "tag:#반품",
+=======
+                "query": "",
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -233,7 +273,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "df87d598a33f8b57",
+=======
+            "id": "b43582115ce96f61",
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -247,6 +291,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "571f8d3cbf9e1e28",
     "type": "split",
     "children": [
@@ -256,11 +301,26 @@
         "children": [
           {
             "id": "f27f432fe75adfe6",
+=======
+    "id": "7903350f5ec3ef74",
+    "type": "split",
+    "children": [
+      {
+        "id": "a255d8a9fbb96510",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33193dbaf8b98a64",
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
+=======
+                "file": "롯데웰푸드 SFA/작업 카테고리/기능 현황.md",
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,19 +332,31 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "72abfd252ae8e4a6",
+=======
+            "id": "7d5e66810a72d142",
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
+=======
+                "file": "롯데웰푸드 SFA/작업 카테고리/기능 현황.md",
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "fd4de7512a97ee1d",
+=======
+            "id": "65e384d72b38c773",
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -295,17 +367,29 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "1f5892315cb32fcb",
+=======
+            "id": "363ae13ea7cd3fd9",
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas"
+=======
+                "file": "롯데웰푸드 SFA/작업 카테고리/기능 현황.md"
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "87805d9ea3b1d641",
+=======
+            "id": "65246c2ae4d18821",
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -313,12 +397,20 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 266.5,
     "collapsed": true
+=======
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,6 +420,7 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+<<<<<<< HEAD
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
@@ -384,5 +477,64 @@
     "롯데웰푸드 SFA/SFA DB",
     "롯데웰푸드 SFA",
     "개인"
+=======
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "403f4dd490ab1911",
+  "lastOpenFiles": [
+    "롯데웰푸드 SFA/작업 카테고리/기준정보.md",
+    "롯데웰푸드 SFA/작업 카테고리/메인.md",
+    "롯데웰푸드 SFA/작업 카테고리/반품.md",
+    "롯데웰푸드 SFA/작업 카테고리/지점 진열대 신청 및 관리.md",
+    "롯데웰푸드 SFA/작업 카테고리/카테고리 맵.canvas",
+    "롯데웰푸드 SFA/작업 카테고리/커뮤니티.md",
+    "롯데웰푸드 SFA/작업 카테고리/SFA 환경.md",
+    "Pasted image 20240404113427.png",
+    "Pasted image 20240404113516.png",
+    "Pasted image 20240404113458.png",
+    "Pasted image 20240404113446.png",
+    "롯데웰푸드 SFA/작업 카테고리/기능 현황.md",
+    "롯데웰푸드 SFA/작업 카테고리/거래처 정보.md",
+    "롯데웰푸드 SFA/RFC SPEC 파일.md",
+    "롯데웰푸드 SFA/기능 현황",
+    "롯데웰푸드 SFA/커뮤니티/게시글 등록 프로세스.canvas",
+    "롯데웰푸드 SFA/커뮤니티/게시글 등록.md",
+    "롯데웰푸드 SFA/커뮤니티/DRM 파일 다운로드.md",
+    "롯데웰푸드 SFA/영업활동/거래처 GPS 등록 프로세스.canvas",
+    "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
+    "롯데웰푸드 SFA/오픈/2024-03-21.md",
+    "롯데웰푸드 SFA/반품/반품 프로세스.canvas",
+    "롯데웰푸드 SFA/반품/반품 전자 결재 상태.md",
+    "롯데웰푸드 SFA/반품/반품 오더 사유 - 클레임 분류 코드.canvas",
+    "롯데웰푸드 SFA/영업활동/Push 메세지.md",
+    "롯데웰푸드 SFA/CRM/VOC TO SFA.md",
+    "롯데웰푸드 SFA/CRM/VOC API.md",
+    "롯데웰푸드 SFA/Daily Kanban/행사.md",
+    "롯데웰푸드 SFA/작업 카테고리/카테고리.md",
+    "롯데웰푸드 SFA/반품/CRM 이미지 등록 프로세스.canvas",
+    "롯데웰푸드 SFA/반품/품질 반품 사유.md",
+    "롯데웰푸드 SFA/영업활동/영업활동.md",
+    "롯데웰푸드 SFA/오픈/2024-02-19.md",
+    "롯데웰푸드 SFA/인수인계/SFA SERVER.md",
+    "롯데웰푸드 SFA/인수인계/일정.md",
+    "롯데웰푸드 SFA/BI/BI 화면 리뉴얼.md",
+    "롯데웰푸드 SFA/오픈/2024-03-04.md",
+    "롯데웰푸드 SFA/Push",
+    "롯데웰푸드 SFA/차량_장비",
+    "롯데웰푸드 SFA/피플",
+    "Pasted image 20240213091453.png",
+    "롯데웰푸드 SFA/인수인계",
+    "롯데웰푸드 SFA/커뮤니티",
+    "롯데웰푸드 SFA/오픈",
+    "Excalidraw",
+    "롯데웰푸드 SFA/BI",
+    "개인 메모",
+    "Pasted image 20231213160524.png",
+    "Pasted image 20231213160502.png",
+    "Pasted image 20231120135739.png",
+    "Pasted image 20231114104100.png"
+>>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
   ]
 }
