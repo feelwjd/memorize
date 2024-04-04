@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "롯데웰푸드 SFA/오픈/2024-03-21.md",
+                "file": "롯데웰푸드 SFA/작업 카테고리/기능 현황.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "롯데웰푸드 SFA/오픈/2024-03-21.md",
+                "file": "롯데웰푸드 SFA/작업 카테고리/기능 현황.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "롯데웰푸드 SFA/오픈/2024-03-21.md",
+                "file": "롯데웰푸드 SFA/작업 카테고리/기능 현황.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "롯데웰푸드 SFA/오픈/2024-03-21.md"
+                "file": "롯데웰푸드 SFA/작업 카테고리/기능 현황.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,38 +158,44 @@
   },
   "active": "403f4dd490ab1911",
   "lastOpenFiles": [
+    "롯데웰푸드 SFA/작업 카테고리/기준정보.md",
+    "롯데웰푸드 SFA/작업 카테고리/메인.md",
+    "롯데웰푸드 SFA/작업 카테고리/반품.md",
+    "롯데웰푸드 SFA/작업 카테고리/지점 진열대 신청 및 관리.md",
+    "롯데웰푸드 SFA/작업 카테고리/카테고리 맵.canvas",
+    "롯데웰푸드 SFA/작업 카테고리/커뮤니티.md",
+    "롯데웰푸드 SFA/작업 카테고리/SFA 환경.md",
+    "Pasted image 20240404113427.png",
+    "Pasted image 20240404113516.png",
+    "Pasted image 20240404113458.png",
+    "Pasted image 20240404113446.png",
+    "롯데웰푸드 SFA/작업 카테고리/기능 현황.md",
+    "롯데웰푸드 SFA/작업 카테고리/거래처 정보.md",
+    "롯데웰푸드 SFA/RFC SPEC 파일.md",
+    "롯데웰푸드 SFA/기능 현황",
+    "롯데웰푸드 SFA/커뮤니티/게시글 등록 프로세스.canvas",
+    "롯데웰푸드 SFA/커뮤니티/게시글 등록.md",
+    "롯데웰푸드 SFA/커뮤니티/DRM 파일 다운로드.md",
+    "롯데웰푸드 SFA/영업활동/거래처 GPS 등록 프로세스.canvas",
+    "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
+    "롯데웰푸드 SFA/오픈/2024-03-21.md",
     "롯데웰푸드 SFA/반품/반품 프로세스.canvas",
     "롯데웰푸드 SFA/반품/반품 전자 결재 상태.md",
     "롯데웰푸드 SFA/반품/반품 오더 사유 - 클레임 분류 코드.canvas",
-    "롯데웰푸드 SFA/영업활동/현장활동 프로세스.canvas",
     "롯데웰푸드 SFA/영업활동/Push 메세지.md",
     "롯데웰푸드 SFA/CRM/VOC TO SFA.md",
     "롯데웰푸드 SFA/CRM/VOC API.md",
-    "롯데웰푸드 SFA/오픈/2024-03-21.md",
     "롯데웰푸드 SFA/Daily Kanban/행사.md",
-    "롯데웰푸드 SFA/작업 카테고리/지점 진열대 신청 및 관리.md",
     "롯데웰푸드 SFA/작업 카테고리/카테고리.md",
     "롯데웰푸드 SFA/반품/CRM 이미지 등록 프로세스.canvas",
     "롯데웰푸드 SFA/반품/품질 반품 사유.md",
-    "롯데웰푸드 SFA/영업활동/거래처 GPS 등록 프로세스.canvas",
     "롯데웰푸드 SFA/영업활동/영업활동.md",
     "롯데웰푸드 SFA/오픈/2024-02-19.md",
     "롯데웰푸드 SFA/인수인계/SFA SERVER.md",
     "롯데웰푸드 SFA/인수인계/일정.md",
     "롯데웰푸드 SFA/BI/BI 화면 리뉴얼.md",
     "롯데웰푸드 SFA/오픈/2024-03-04.md",
-    "롯데웰푸드 SFA/오픈/2024-02-01.md",
-    "롯데웰푸드 SFA/Push/PUSH 추가 요청건.md",
-    "롯데웰푸드 SFA/피플/3월 작업 내역.md",
-    "롯데웰푸드 SFA/피플/피플네트웍스 회의 2024-02-15.md",
-    "롯데웰푸드 SFA/피플/피플 거래처 매핑 수정사항.md",
-    "롯데웰푸드 SFA/커뮤니티/DRM 파일 다운로드.md",
-    "롯데웰푸드 SFA/차량_장비/장비 2024-02-21 회의.md",
-    "롯데웰푸드 SFA/작업 카테고리/현황보고서.md",
-    "롯데웰푸드 SFA/작업 카테고리/카테고리 맵.canvas",
-    "롯데웰푸드 SFA/작업 카테고리/기준정보.md",
     "롯데웰푸드 SFA/Push",
-    "개인 메모/하나TI.md",
     "롯데웰푸드 SFA/차량_장비",
     "롯데웰푸드 SFA/피플",
     "Pasted image 20240213091453.png",
@@ -201,7 +206,6 @@
     "롯데웰푸드 SFA/BI",
     "개인 메모",
     "Pasted image 20231213160524.png",
-    "롯데웰푸드 SFA/작업 카테고리",
     "Pasted image 20231213160502.png",
     "Pasted image 20231120135739.png",
     "Pasted image 20231114104100.png"
