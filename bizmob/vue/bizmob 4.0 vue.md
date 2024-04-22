@@ -3,4 +3,6 @@
 ## 바뀐점
 - builder에서 미개발 된 서버 전문 json 으로 받아와 테스트 콜백 받을 수 있도록 설계
 - Native 플러그인 기능에 대해서 고정값으로 return 받을 수 있도록 테스트 json 설계
-- 
+-  UI 컴포넌트 개념 도입으로 인한 개발 속도 향상
+	- Property + Method + UI
+
