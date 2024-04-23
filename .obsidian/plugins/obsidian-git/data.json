@@ -8,6 +8,7 @@
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
+  "disablePopupsForNoChanges": false,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
@@ -18,11 +19,7 @@
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
-<<<<<<< HEAD
   "changedFilesInStatusBar": false,
-=======
-  "changedFilesInStatusBar": true,
->>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
@@ -30,6 +27,8 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
+  "authorInHistoryView": "hide",
+  "dateInHistoryView": false,
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
@@ -51,13 +50,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-<<<<<<< HEAD
     "gutterSpacingFallbackLength": 5
-=======
-    "gutterSpacingFallbackLength": 5,
-    "lastShownAuthorDisplay": "initials",
-    "lastShownDateTimeFormatOptions": "date"
->>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
   },
   "autoCommitMessage": "vault backup: {{date}}"
 }

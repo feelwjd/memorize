@@ -1,8 +1,8 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-mkdocs-publisher",
   "obsidian-kanban",
   "obsidian-mind-map",
   "obsidian-outliner",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-git"
 ]
