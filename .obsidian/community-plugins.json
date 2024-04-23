@@ -1,19 +1,8 @@
 [
-<<<<<<< HEAD
-  "dataview",
-  "table-editor-obsidian",
-  "obsidian-outliner",
-  "obsidian-mind-map",
-  "obsidian-kanban",
-  "obsidian-git"
-=======
-  "table-editor-obsidian",
-  "dataview",
+  "obsidian-excalidraw-plugin",
   "obsidian-mkdocs-publisher",
   "obsidian-kanban",
   "obsidian-mind-map",
-  "obsidian-git",
   "obsidian-outliner",
-  "obsidian-excalidraw-plugin"
->>>>>>> 38fdbc55a4202a533d292e236934505706c3a126
+  "obsidian-minimal-settings"
 ]
