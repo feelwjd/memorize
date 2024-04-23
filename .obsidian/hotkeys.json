@@ -2,7 +2,7 @@
   "command-palette:open": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": " "
     }
