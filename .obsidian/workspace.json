@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoAuthor/CoAuthor.md",
+                "file": "버거킹/서버 정보.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoAuthor/CoAuthor.md",
+                "file": "버거킹/서버 정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoAuthor/CoAuthor.md",
+                "file": "버거킹/서버 정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoAuthor/CoAuthor.md"
+                "file": "버거킹/서버 정보.md"
               }
             }
           }
@@ -149,6 +149,11 @@
   },
   "active": "c4afa53eb5abcb8e",
   "lastOpenFiles": [
+    "버거킹/버거킹 리뉴얼 기획서 리뷰.md",
+    "버거킹/서버 정보.md",
+    "Pasted image 20240426101216.png",
+    "CoAuthor/CoAuthor.md",
+    "버거킹",
     "CoAuthor/CoAuthor - Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities.md",
     "CoAuthor/CoAuthor.md",
     "bizmob/vue/bizmob 4.0 vue.md",
