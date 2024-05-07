@@ -1,39 +1,53 @@
 {
   "main": {
-    "id": "f1fdbe4da60d2f95",
+    "id": "41cddbfcf318bc8e",
     "type": "split",
     "children": [
       {
-        "id": "75b72ad284f5eb48",
+        "id": "bb32b4e7270d2f5c",
         "type": "tabs",
         "children": [
           {
-            "id": "c4afa53eb5abcb8e",
+            "id": "dbc000a006b9a6d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bizmob/vue/bizmob 4.0 vue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e2ec382ef671b4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "버거킹/서버 정보.md",
+                "file": "bizmob/vue/bizmob 4.0 vue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "647c8ac86d141b41",
+    "id": "916e97c4981cf3bb",
     "type": "split",
     "children": [
       {
-        "id": "56cd2ab32ca7ad67",
+        "id": "9fb9e55be700b6ba",
         "type": "tabs",
         "children": [
           {
-            "id": "5b4c65d93747c61f",
+            "id": "1e32ff5bc643cd91",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +57,7 @@
             }
           },
           {
-            "id": "ca799810daaf7531",
+            "id": "8bc1f35e3ba27060",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +72,7 @@
             }
           },
           {
-            "id": "38cc09ee9c4087c8",
+            "id": "931aa26d2aa65623",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +86,21 @@
     "width": 300
   },
   "right": {
-    "id": "daf2f136514b0147",
+    "id": "afcc3a985b938803",
     "type": "split",
     "children": [
       {
-        "id": "6f0a7ab355e6a4c8",
+        "id": "f14288cbf2bfb723",
         "type": "tabs",
         "children": [
           {
-            "id": "04353af40568c96e",
+            "id": "3b08e9ea3e333da2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "버거킹/서버 정보.md",
+                "file": "bizmob/vue/bizmob 4.0 vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +112,20 @@
             }
           },
           {
-            "id": "c81182d41a8a33c5",
+            "id": "e0e605c2a31260b9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "file": "버거킹/서버 정보.md",
+                "file": "bizmob/vue/bizmob 4.0 vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "30cb265d59512634",
+            "id": "760c1f58939b797f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +136,13 @@
             }
           },
           {
-            "id": "67ae4bb080962326",
+            "id": "0d723f158b111291",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "버거킹/서버 정보.md"
+                "file": "버거킹/서버 정보.md",
+                "file": "bizmob/vue/bizmob 4.0 vue.md"
               }
             }
           }
@@ -147,21 +164,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4afa53eb5abcb8e",
+  "active": "5e2ec382ef671b4b",
   "lastOpenFiles": [
+    "개인/WEB 구성 방법.md",
     "버거킹/버거킹 리뉴얼 기획서 리뷰.md",
     "버거킹/서버 정보.md",
     "Pasted image 20240426101216.png",
     "CoAuthor/CoAuthor.md",
     "버거킹",
     "CoAuthor/CoAuthor - Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities.md",
-    "CoAuthor/CoAuthor.md",
     "bizmob/vue/bizmob 4.0 vue.md",
     "bizmob/vue",
-    "bizmob",
-    "Excalidraw/Drawing 2024-04-23 15.35.37.excalidraw.md",
-    "개인/2024 목표.md",
-    "CoAuthor",
-    "개인/무제 파일.md"
+    "bizmob"
   ]
 }
