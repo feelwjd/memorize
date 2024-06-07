@@ -1,0 +1,44 @@
+- OOP 프로그래밍
+	- 객체 지향 프로그래밍으로 하나의 클래스를 기반으로 다른 상태의 인스턴스를 만들면서 다른 행동을 하게 할 수 있다.
+	- 코드의 재활용성을 높이고 유지 보수에 용이함.
+- 장단점
+	- 장점
+		- 아파치, 스프링 같은 자바를 지원하는 오픈소스 프로젝트가 많아 짧은 개발 시간 내에 안정적인 프로그래밍 가능.
+		- JVM 위에서 실행되기 때문에 운영체제에 독립적으로 실행 가능
+	- 단점
+		- JVM 
+- JVM 의 역할
+- Java 컴파일 과정
+- Java에서 제공하는 원시 타입 및 속성
+- 오버라이딩 / 오버로딩
+- try-with-resource
+- 불변객체 설명
+- 참조 타입에 대해서
+- 추상 클래스와 인터페이스
+- 싱글톤 패턴
+- 팩토리 패턴
+- 가비지 컬렉션
+- 객체지향 설계원칙
+- 자바의 메모리 영역
+- 클래스와 객체
+- 생성자
+- Wrapper 클래스 , Boxing과 UnBoxing에 대해서
+- Synchronized 에 대해서
+- new Stirng()과 리터럴("") 의 차이
+- Stirng, StringBuffer, StringBuilder 의 차이
+- 접근 제한자에 대해서
+- 클래스 멤버 변수 초기화 순서
+- static 에 대해서
+- Inner 클래스의 장점
+- 리플렉션에 대해서
+- Error와 Exception의 차이
+- CheckedException과 UnCheckedException의 차이
+- Optinal API에 대해서
+- 컬렉션 프레임워크에 대해서
+- List, Set, Map, Stack, Queue에 대해서
+- Vector와 List의 차이
+- 제네릭에 대해서
+- 직렬화에 대해서
+- SerialVersionUID를 선언하는 이유
+- 
+
