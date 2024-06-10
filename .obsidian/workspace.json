@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1efd9b5d025fdd90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "목업.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "목업.md",
+                "file": "버거킹/서버 정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "목업.md",
+                "file": "버거킹/서버 정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "목업.md"
+                "file": "버거킹/서버 정보.md"
               }
             }
           }
@@ -160,14 +147,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1efd9b5d025fdd90",
+  "active": "4408095391532079",
   "lastOpenFiles": [
-    "사업 계획표.md",
-    "버거킹/서버 정보.md",
-    "목업.md",
-    "개인/현대캐피탈.md",
+    "버거킹/인터페이스 리스트업.md",
     "버거킹/2024-06-05 개발일정 확인.md",
-    "버거킹/2024-06-03 인터페이스 리스트업.md",
+    "버거킹/버거킹 2024-05-20 회의.md",
+    "버거킹/버거킹 TODO.md",
+    "버거킹/서버 정보.md",
+    "버거킹/버거킹 리뉴얼 기획서 리뷰.md",
+    "버거킹/IF_01_13 회원가입.md",
+    "목업.md",
+    "사업 계획표.md",
+    "개인/현대캐피탈.md",
     "롯데웰푸드 SFA/반품/반품 프로세스.canvas",
     "롯데웰푸드 SFA/반품/반품 상태.md",
     "롯데웰푸드 SFA/반품/클레임 분류 코드.md",
@@ -187,10 +178,6 @@
     "롯데웰푸드 SFA/작업 카테고리/현황보고서.md",
     "롯데웰푸드 SFA/작업 카테고리/커뮤니티.md",
     "롯데웰푸드 SFA/작업 카테고리/카테고리 맵.canvas",
-    "버거킹/버거킹 2024-05-20 회의.md",
-    "버거킹/버거킹 리뉴얼 기획서 리뷰.md",
-    "버거킹/IF_01_13 회원가입.md",
-    "버거킹/버거킹 TODO.md",
     "롯데웰푸드 SFA/Daily Kanban/메인화면.md",
     "롯데웰푸드 SFA/Daily Kanban/2023-11-21.md",
     "롯데웰푸드 SFA/커뮤니티/게시글 등록 프로세스.canvas",
