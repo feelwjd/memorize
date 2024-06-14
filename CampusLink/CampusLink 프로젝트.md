@@ -1,0 +1,43 @@
+---
+
+kanban-plugin: basic
+
+---
+
+## Backlog
+
+
+
+## Todo
+
+- [ ] #Docker<br>도커 이미지 생성
+- [ ] #Docker <br>쿠버네티스 연결
+- [ ] #AWS <br>S3 생성
+- [ ] #AWS <br>EC2 생성
+- [ ] #AWS <br>IAM 설정 및 S3 - EC2 연동
+
+
+## Bug / Quick Fixes / High Priority
+
+
+
+## In Progress
+
+
+
+## Done
+
+**Complete**
+
+
+***
+
+## Archive
+
+- [x] 2024-06-14 11:21 sdf
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic","new-line-trigger":"shift-enter","show-checkboxes":true,"date-format":"YYYY-MM-DD","date-display-format":"YYYY-MM-DD","date-colors":[],"archive-with-date":true,"archive-date-format":"YYYY-MM-DD hh:mm"}
+```
+%%

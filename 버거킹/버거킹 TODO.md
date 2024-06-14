@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] #VOC <br>10_01 VOC 첨부파일 등록<br><br>전문 개발<br><br>---> 보안 상 이슈로 작업 중지
 
 
 ## Todo
@@ -14,7 +15,7 @@ kanban-plugin: basic
 
 ## Bug / Quick Fixes / High Priority
 
-- [ ] #VOC <br>10_01 VOC 첨부파일 등록<br><br>전문 개발
+- [ ] #전체메뉴 <br>BKR626 전문 통신시 존재하지않는 프로필이라고 오류<br><br>BKR0625에서는 뱃지 획득한것으로 조회됨.<br><br>확인필요.
 
 
 ## In Progress
@@ -23,6 +24,9 @@ kanban-plugin: basic
 
 ## Done
 
+- [ ] #로그인 <br>BKR0133 SNS 연동 해제 전문 오류 발생<br>확인 필요.
+- [ ] #전체메뉴 <br>BKR0611전문 api 인터페이스 수정<br>전문 반영
+- [ ] #전체메뉴 <br>BKR0609 필드 추가 반영
 - [ ] #전체메뉴 <br>06_35 프로필 이미지 조회<br><br>전문 개발
 - [ ] #전체메뉴 <br>06_26 프로필 이미지 설정<br><br>전문 개발
 - [ ] #전체메뉴 <br>06_25 배지 컬렉션 조회<br><br>전문 개발
