@@ -11,9 +11,11 @@
             "id": "0fdc25dadd2ca3f8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "CampusLink/CampusLink 프로젝트.md"
+                "file": "버거킹/서버 정보.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CampusLink/CampusLink 프로젝트.md",
+                "file": "버거킹/서버 정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CampusLink/CampusLink 프로젝트.md",
+                "file": "버거킹/서버 정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CampusLink/CampusLink 프로젝트.md"
+                "file": "버거킹/서버 정보.md"
               }
             }
           }
@@ -147,26 +149,28 @@
   },
   "active": "0fdc25dadd2ca3f8",
   "lastOpenFiles": [
-    "CampusLink/사업 계획표.md",
-    "CampusLink/사업 시작.md",
-    "CampusLink/목업.md",
+    "CampusLink/회사 구조 구축.md",
     "CampusLink/CampusLink 프로젝트.md",
+    "CampusLink/프로토타입 개발 계획.md",
+    "CampusLink/사업 시작.md",
+    "CampusLink/사업 계획표.md",
+    "버거킹/데일리/2024-06-05 개발일정 확인.md",
+    "버거킹/데일리/2024-06-14 작업리스트.md",
+    "버거킹/버거킹 TODO.md",
+    "버거킹/버거킹 리뉴얼 기획서 리뷰.md",
+    "버거킹/데일리/인터페이스 리스트업.md",
+    "버거킹/데일리/버거킹 2024-05-20 회의.md",
+    "버거킹/서버 정보.md",
+    "CampusLink/목업.md",
     "CampusLink",
     "개인/2024년 3분기 TODO.md",
     "개인/현대캐피탈.md",
     "개인/빅데이터 서비스.md",
-    "버거킹/데일리/2024-06-14 작업리스트.md",
-    "버거킹/데일리/2024-06-05 개발일정 확인.md",
-    "버거킹/버거킹 TODO.md",
     "개인/TODO.md",
     "개인/2024 목표.md",
     "개인/TRAVEL MAKER.md",
-    "버거킹/데일리/버거킹 2024-05-20 회의.md",
-    "버거킹/버거킹 리뉴얼 기획서 리뷰.md",
-    "버거킹/서버 정보.md",
     "버거킹/인터페이스/IF_01_13 회원가입.md",
     "버거킹/인터페이스",
-    "버거킹/데일리/인터페이스 리스트업.md",
     "버거킹/데일리",
     "롯데웰푸드 SFA/반품/반품 프로세스.canvas",
     "롯데웰푸드 SFA/반품/반품 상태.md",
@@ -177,8 +181,6 @@
     "롯데웰푸드 SFA/RFC SPEC 파일.md",
     "롯데웰푸드 SFA/환율 시세.md",
     "롯데웰푸드 SFA/그래프.md",
-    "롯데웰푸드 SFA/기준정보.md",
-    "롯데웰푸드 SFA/거래처 기본 정보.md",
     "root/Pasted image 20240404113446.png",
     "root/Pasted image 20240404113458.png",
     "롯데웰푸드 SFA/작업 카테고리/카테고리 맵.canvas",

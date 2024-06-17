@@ -6,15 +6,15 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] #Docker <br>쿠버네티스 연결
 
 
 ## Todo
 
-- [ ] #Docker<br>도커 이미지 생성
-- [ ] #Docker <br>쿠버네티스 연결
 - [ ] #AWS <br>S3 생성
 - [ ] #AWS <br>EC2 생성
 - [ ] #AWS <br>IAM 설정 및 S3 - EC2 연동
+- [ ] #Crew<br>Crew 에이전트 생성
 
 
 ## Bug / Quick Fixes / High Priority
@@ -23,6 +23,7 @@ kanban-plugin: basic
 
 ## In Progress
 
+- [ ] #Docker<br>도커 이미지 생성
 
 
 ## Done
