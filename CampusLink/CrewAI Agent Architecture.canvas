@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"9b90b42fbd55ef13","type":"text","text":"BackEnd Leader Node","x":20,"y":-80,"width":276,"height":60},
+		{"id":"af6dceb4629a1976","type":"text","text":"Tech Leader Node","x":-380,"y":-80,"width":250,"height":60},
+		{"id":"357d693e1c9201e6","type":"text","text":"Architecture Node","x":20,"y":-240,"width":276,"height":60},
+		{"id":"df0c574f3fa58e56","type":"text","text":"BackEnd Developer Node1","x":380,"y":-80,"width":260,"height":60},
+		{"id":"4f12b653fffee8b2","type":"text","text":"BackEnd QA Engineer Node1","x":720,"y":-80,"width":280,"height":60},
+		{"id":"1976ec651f91641e","type":"text","text":"BackEnd Developer Node2","x":1060,"y":-80,"width":271,"height":60},
+		{"id":"3a96a698ceb926d0","type":"text","text":"BackEnd QA Engineer Node2","x":1420,"y":-80,"width":284,"height":60},
+		{"id":"4fa2aa9d211cfa56","type":"text","text":"FrontEnd Leader Node","x":20,"y":200,"width":276,"height":60},
+		{"id":"7bb7c87a16a95d0e","type":"text","text":"BackEnd Environment Node","x":20,"y":60,"width":276,"height":60},
+		{"id":"8d2758de4d74cd3d","type":"text","text":"FrontEnd Developer Node1","x":380,"y":200,"width":260,"height":60},
+		{"id":"e60b8a1b848ba84a","type":"text","text":"FrontEnd QA Engineer Node1","x":720,"y":200,"width":280,"height":60},
+		{"id":"23b27ee3353cb255","type":"text","text":"FrontEnd Developer Node2","x":1060,"y":200,"width":271,"height":60},
+		{"id":"ceb9c31227ec6314","type":"text","text":"FrontEnd QA Engineer Node2","x":1420,"y":200,"width":284,"height":60},
+		{"id":"c61c14fcbc3107b3","type":"text","text":"FrontEnd Environment Node","x":20,"y":340,"width":276,"height":60},
+		{"id":"63b28f72b356f950","x":-380,"y":200,"width":250,"height":60,"type":"text","text":"Development Manager Node"}
+	],
+	"edges":[
+		{"id":"dbeb1253c28cf858","fromNode":"af6dceb4629a1976","fromSide":"right","toNode":"357d693e1c9201e6","toSide":"left"},
+		{"id":"6808cd29833a4d14","fromNode":"357d693e1c9201e6","fromSide":"bottom","toNode":"9b90b42fbd55ef13","toSide":"top"},
+		{"id":"a38a0194814d142e","fromNode":"9b90b42fbd55ef13","fromSide":"right","toNode":"df0c574f3fa58e56","toSide":"left"},
+		{"id":"a6368adfae9e59ce","fromNode":"df0c574f3fa58e56","fromSide":"right","toNode":"4f12b653fffee8b2","toSide":"left"},
+		{"id":"8e34643de927c7d2","fromNode":"4f12b653fffee8b2","fromSide":"right","toNode":"1976ec651f91641e","toSide":"left"},
+		{"id":"0d5f171f77fa4e64","fromNode":"1976ec651f91641e","fromSide":"right","toNode":"3a96a698ceb926d0","toSide":"left"},
+		{"id":"ba8acda8c167d7ed","fromNode":"3a96a698ceb926d0","fromSide":"bottom","toNode":"7bb7c87a16a95d0e","toSide":"top"},
+		{"id":"0d4661219ab9af82","fromNode":"7bb7c87a16a95d0e","fromSide":"bottom","toNode":"4fa2aa9d211cfa56","toSide":"top"},
+		{"id":"a83aa66411fb262d","fromNode":"8d2758de4d74cd3d","fromSide":"right","toNode":"e60b8a1b848ba84a","toSide":"left"},
+		{"id":"84b52041aac47612","fromNode":"e60b8a1b848ba84a","fromSide":"right","toNode":"23b27ee3353cb255","toSide":"left"},
+		{"id":"1b6b12f801634583","fromNode":"23b27ee3353cb255","fromSide":"right","toNode":"ceb9c31227ec6314","toSide":"left"},
+		{"id":"6fdd9cf542aa4bfb","fromNode":"4fa2aa9d211cfa56","fromSide":"right","toNode":"8d2758de4d74cd3d","toSide":"left"},
+		{"id":"aa41c457fec514f5","fromNode":"ceb9c31227ec6314","fromSide":"bottom","toNode":"c61c14fcbc3107b3","toSide":"top"},
+		{"id":"40cab8fbe1590dfc","fromNode":"c61c14fcbc3107b3","fromSide":"left","toNode":"63b28f72b356f950","toSide":"right"}
+	]
+}

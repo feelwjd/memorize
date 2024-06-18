@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c41f2edb13e46841",
+        "id": "842178782243c3b8",
         "type": "tabs",
         "children": [
           {
-            "id": "0fdc25dadd2ca3f8",
+            "id": "1dcef1ff3f3a6cfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "버거킹/서버 정보.md",
+                "file": "CrewAI/사업계획표.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "버거킹/서버 정보.md",
+                "file": "CrewAI/사업계획표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "버거킹/서버 정보.md",
+                "file": "CrewAI/사업계획표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "버거킹/서버 정보.md"
+                "file": "CrewAI/사업계획표.md"
               }
             }
           }
@@ -147,21 +147,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0fdc25dadd2ca3f8",
+  "active": "1dcef1ff3f3a6cfb",
   "lastOpenFiles": [
     "CampusLink/회사 구조 구축.md",
+    "CampusLink/CrewAI Agent Architecture.canvas",
+    "CampusLink/CrewAI Agent Architecture.md",
     "CampusLink/CampusLink 프로젝트.md",
     "CampusLink/프로토타입 개발 계획.md",
     "CampusLink/사업 시작.md",
     "CampusLink/사업 계획표.md",
-    "버거킹/데일리/2024-06-05 개발일정 확인.md",
-    "버거킹/데일리/2024-06-14 작업리스트.md",
+    "버거킹/데일리/인터페이스 리스트업.md",
+    "CrewAI/블리츸크랭크 컴퍼니.md",
+    "CrewAI/사업계획표.md",
+    "CrewAI",
+    "CampusLink/목업.md",
+    "버거킹/서버 정보.md",
     "버거킹/버거킹 TODO.md",
     "버거킹/버거킹 리뉴얼 기획서 리뷰.md",
-    "버거킹/데일리/인터페이스 리스트업.md",
     "버거킹/데일리/버거킹 2024-05-20 회의.md",
-    "버거킹/서버 정보.md",
-    "CampusLink/목업.md",
+    "버거킹/데일리/2024-06-05 개발일정 확인.md",
+    "버거킹/데일리/2024-06-14 작업리스트.md",
     "CampusLink",
     "개인/2024년 3분기 TODO.md",
     "개인/현대캐피탈.md",
@@ -175,12 +180,8 @@
     "롯데웰푸드 SFA/반품/반품 프로세스.canvas",
     "롯데웰푸드 SFA/반품/반품 상태.md",
     "롯데웰푸드 SFA/반품/클레임 분류 코드.md",
-    "롯데웰푸드 SFA/반품/품질 반품 사유.md",
     "롯데웰푸드 SFA/반품/CRM 이미지 등록 프로세스.canvas",
     "롯데웰푸드 SFA/반품/반품 오더 사유 - 클레임 분류 코드.canvas",
-    "롯데웰푸드 SFA/RFC SPEC 파일.md",
-    "롯데웰푸드 SFA/환율 시세.md",
-    "롯데웰푸드 SFA/그래프.md",
     "root/Pasted image 20240404113446.png",
     "root/Pasted image 20240404113458.png",
     "롯데웰푸드 SFA/작업 카테고리/카테고리 맵.canvas",
