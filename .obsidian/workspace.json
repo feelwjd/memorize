@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CrewAI/사업계획표.md",
+                "file": "CrewAI/비즈니스 팀 크루.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CrewAI/사업계획표.md",
+                "file": "CrewAI/비즈니스 팀 크루.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CrewAI/사업계획표.md",
+                "file": "CrewAI/비즈니스 팀 크루.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CrewAI/사업계획표.md"
+                "file": "CrewAI/비즈니스 팀 크루.md"
               }
             }
           }
@@ -149,16 +149,18 @@
   },
   "active": "1dcef1ff3f3a6cfb",
   "lastOpenFiles": [
+    "CrewAI/블리츸크랭크 컴퍼니.md",
+    "CrewAI/비즈니스 팀 크루.md",
+    "CrewAI/사업계획표.md",
+    "CrewAI/백로깅.md",
+    "CampusLink/사업 시작.md",
+    "CampusLink/프로토타입 개발 계획.md",
     "CampusLink/회사 구조 구축.md",
     "CampusLink/CrewAI Agent Architecture.canvas",
     "CampusLink/CrewAI Agent Architecture.md",
     "CampusLink/CampusLink 프로젝트.md",
-    "CampusLink/프로토타입 개발 계획.md",
-    "CampusLink/사업 시작.md",
     "CampusLink/사업 계획표.md",
     "버거킹/데일리/인터페이스 리스트업.md",
-    "CrewAI/블리츸크랭크 컴퍼니.md",
-    "CrewAI/사업계획표.md",
     "CrewAI",
     "CampusLink/목업.md",
     "버거킹/서버 정보.md",
@@ -179,7 +181,6 @@
     "버거킹/데일리",
     "롯데웰푸드 SFA/반품/반품 프로세스.canvas",
     "롯데웰푸드 SFA/반품/반품 상태.md",
-    "롯데웰푸드 SFA/반품/클레임 분류 코드.md",
     "롯데웰푸드 SFA/반품/CRM 이미지 등록 프로세스.canvas",
     "롯데웰푸드 SFA/반품/반품 오더 사유 - 클레임 분류 코드.canvas",
     "root/Pasted image 20240404113446.png",
