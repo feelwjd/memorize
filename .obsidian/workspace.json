@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ae26d8413f494be3",
+        "id": "c299f3233c982b43",
         "type": "tabs",
         "children": [
           {
-            "id": "4aff5ffe196da928",
+            "id": "16e93804a88764d4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "개인/2024년 3분기 TODO.md"
+                "file": "CrewAI/Reference.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인/2024년 3분기 TODO.md",
+                "file": "CrewAI/Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인/2024년 3분기 TODO.md",
+                "file": "CrewAI/Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인/2024년 3분기 TODO.md"
+                "file": "CrewAI/Reference.md"
               }
             }
           },
@@ -155,38 +157,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b4c65d93747c61f",
+  "active": "16e93804a88764d4",
   "lastOpenFiles": [
-    "개인 메모/서버 이중화 세션 이관.md",
+    "CrewAI/사업계획표.md",
+    "CrewAI/Reference.md",
+    "버거킹/데일리/인터페이스 리스트업.md",
+    "버거킹/데일리/버거킹 2024-05-20 회의.md",
+    "버거킹/버거킹 TODO.md",
+    "버거킹/버거킹 리뉴얼 기획서 리뷰.md",
+    "버거킹/서버 정보.md",
+    "CampusLink/CrewAI Agent Architecture.canvas",
+    "CampusLink/목업.md",
+    "CampusLink/CrewAI Agent Architecture.md",
+    "CampusLink/CampusLink 프로젝트.md",
+    "CampusLink/회사 구조 구축.md",
+    "CampusLink/프로토타입 개발 계획.md",
+    "CampusLink/사업 시작.md",
+    "CampusLink/사업 계획표.md",
+    "CoAuthor/CoAuthor.md",
+    "CoAuthor/CoAuthor - Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities.md",
+    "CrewAI/백로깅.md",
+    "CrewAI/블리츸크랭크 컴퍼니.md",
     "개인/2024년 3분기 TODO.md",
+    "개인 메모/서버 이중화 세션 이관.md",
     "개인 메모/SQLP.md",
     "개인 메모/하나TI.md",
     "개인/2024 목표.md",
     "개인/프롬프트 - 빅데이터 서비스.md",
     "개인/현대캐피탈.md",
     "개인/TODO.md",
-    "개인/TRAVEL MAKER.md",
-    "개인/기술면접/JAVA.md",
-    "개인/기술면접/Node.md",
-    "개인/기술면접/DB.md",
-    "개인/기술면접/네트워크.md",
-    "bizmob/vue/bizmob 4.0 vue.md",
-    "버거킹/버거킹 TODO.md",
-    "버거킹/버거킹 리뉴얼 기획서 리뷰.md",
-    "CrewAI/Reference.md",
     "Pasted image 20240620143019.png",
     "Pasted image 20240620140828.png",
     "Pasted image 20240620140757.png",
-    "CrewAI/사업계획표.md",
-    "버거킹/데일리/인터페이스 리스트업.md",
-    "버거킹/서버 정보.md",
-    "CrewAI/비즈니스 팀 크루.md",
-    "CampusLink/사업 시작.md",
-    "CampusLink/사업 계획표.md",
-    "CampusLink/목업.md",
-    "CampusLink/CrewAI Agent Architecture.md",
-    "CampusLink/CrewAI Agent Architecture.canvas",
-    "CampusLink/CampusLink 프로젝트.md",
     "CrewAI",
     "CampusLink",
     "버거킹/인터페이스",

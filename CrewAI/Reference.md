@@ -41,8 +41,10 @@
 		- https://docs.crewai.com/tools/DirectoryReadTool/
 	- 파일 조회 툴
 		- https://docs.crewai.com/tools/FileReadTool/
-	- CrewAI와 비슷한 microsoft의 AutoGen
-		- https://microsoft.github.io/autogen/
+- CrewAI와 비슷한 microsoft의 AutoGen
+	- https://microsoft.github.io/autogen/
+- Dashboard
+	- https://docs.agentops.ai/v1/introduction
 
 
 
