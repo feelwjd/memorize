@@ -19,7 +19,6 @@ kanban-plugin: basic
 - [ ] #Setting<br>QA 서버 세팅 필요<br>App/WEB 전체 영역
 - [ ] #Setting <br>Appstore 설치 필요.<br>현재 iOS 업데이트 안됨.
 - [ ] #Setting<br>알림함 적재 관련<br>브레이즈 적재확인 필요.
-- [ ] #홈 <br>광고 아카이브 API 작업 필요
 
 
 ## Bug / Quick Fixes / High Priority
@@ -33,6 +32,7 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] #홈 <br>광고 아카이브 API 작업 필요
 - [x] #WEB <br>쑥쑥 성장기 인터페이스 정의
 - [x] #WEB <br>광고 아카이브 인터페이스 정의
 
