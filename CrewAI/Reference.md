@@ -9,7 +9,6 @@
 		- ![[Pasted image 20240620140757.png]]
 		- 응답속도 제일 빠름
 		- token 당 비용 비쌈
-		-  business Team Crew Token = 3.3M
 	- gpt-3.5-turbo
 		- ![[Pasted image 20240620140828.png]]
 - GPT 가격
