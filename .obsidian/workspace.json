@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CrewAI/Reference.md",
+                "file": "CrewAI/백로깅.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CrewAI/Reference.md",
+                "file": "CrewAI/백로깅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CrewAI/Reference.md",
+                "file": "CrewAI/백로깅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CrewAI/Reference.md"
+                "file": "CrewAI/백로깅.md"
               }
             }
           },
@@ -159,8 +159,13 @@
   },
   "active": "16e93804a88764d4",
   "lastOpenFiles": [
-    "CrewAI/사업계획표.md",
     "CrewAI/Reference.md",
+    "CrewAI/플랫폼 설계.canvas",
+    "CrewAI/비즈니스 팀 크루.md",
+    "CrewAI/블리츸크랭크 컴퍼니.md",
+    "CrewAI/백로깅.md",
+    "Excalidraw/Drawing 2024-06-20 17.32.29.excalidraw.md",
+    "CrewAI/사업계획표.md",
     "버거킹/데일리/인터페이스 리스트업.md",
     "버거킹/데일리/버거킹 2024-05-20 회의.md",
     "버거킹/버거킹 TODO.md",
@@ -176,16 +181,11 @@
     "CampusLink/사업 계획표.md",
     "CoAuthor/CoAuthor.md",
     "CoAuthor/CoAuthor - Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities.md",
-    "CrewAI/백로깅.md",
-    "CrewAI/블리츸크랭크 컴퍼니.md",
     "개인/2024년 3분기 TODO.md",
     "개인 메모/서버 이중화 세션 이관.md",
     "개인 메모/SQLP.md",
     "개인 메모/하나TI.md",
     "개인/2024 목표.md",
-    "개인/프롬프트 - 빅데이터 서비스.md",
-    "개인/현대캐피탈.md",
-    "개인/TODO.md",
     "Pasted image 20240620143019.png",
     "Pasted image 20240620140828.png",
     "Pasted image 20240620140757.png",
