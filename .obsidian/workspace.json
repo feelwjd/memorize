@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CrewAI/백로깅.md",
+                "file": "Cesco/CF CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CrewAI/백로깅.md",
+                "file": "Cesco/CF CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CrewAI/백로깅.md",
+                "file": "Cesco/CF CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CrewAI/백로깅.md"
+                "file": "Cesco/CF CLI.md"
               }
             }
           },
@@ -147,29 +147,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "16e93804a88764d4",
   "lastOpenFiles": [
+    "버거킹/버거킹 TODO.md",
+    "Cesco/CF CLI.md",
+    "Cesco",
+    "버거킹/버거킹 리뉴얼 기획서 리뷰.md",
+    "버거킹/인터페이스/IF_01_13 회원가입.md",
+    "root/2023-10-11.md",
+    "Pasted image 20240620140757.png",
+    "CrewAI/백로깅.md",
     "CrewAI/Reference.md",
     "CrewAI/플랫폼 설계.canvas",
     "CrewAI/비즈니스 팀 크루.md",
     "CrewAI/블리츸크랭크 컴퍼니.md",
-    "CrewAI/백로깅.md",
     "Excalidraw/Drawing 2024-06-20 17.32.29.excalidraw.md",
     "CrewAI/사업계획표.md",
     "버거킹/데일리/인터페이스 리스트업.md",
     "버거킹/데일리/버거킹 2024-05-20 회의.md",
-    "버거킹/버거킹 TODO.md",
-    "버거킹/버거킹 리뉴얼 기획서 리뷰.md",
     "버거킹/서버 정보.md",
     "CampusLink/CrewAI Agent Architecture.canvas",
     "CampusLink/목업.md",
@@ -184,11 +189,8 @@
     "개인/2024년 3분기 TODO.md",
     "개인 메모/서버 이중화 세션 이관.md",
     "개인 메모/SQLP.md",
-    "개인 메모/하나TI.md",
-    "개인/2024 목표.md",
     "Pasted image 20240620143019.png",
     "Pasted image 20240620140828.png",
-    "Pasted image 20240620140757.png",
     "CrewAI",
     "CampusLink",
     "버거킹/인터페이스",
