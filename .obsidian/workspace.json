@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cesco/CF CLI.md",
+                "file": "Cesco/DEV 환경 구성.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cesco/CF CLI.md",
+                "file": "Cesco/DEV 환경 구성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cesco/CF CLI.md",
+                "file": "Cesco/DEV 환경 구성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cesco/CF CLI.md"
+                "file": "Cesco/DEV 환경 구성.md"
               }
             }
           },
@@ -147,25 +147,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "16e93804a88764d4",
   "lastOpenFiles": [
-    "버거킹/버거킹 TODO.md",
     "Cesco/CF CLI.md",
+    "Cesco/DEV 환경 구성.md",
+    "Pasted image 20240620143019.png",
+    "Pasted image 20240620140828.png",
+    "Pasted image 20240620140757.png",
+    "버거킹/버거킹 TODO.md",
     "Cesco",
     "버거킹/버거킹 리뉴얼 기획서 리뷰.md",
     "버거킹/인터페이스/IF_01_13 회원가입.md",
     "root/2023-10-11.md",
-    "Pasted image 20240620140757.png",
     "CrewAI/백로깅.md",
     "CrewAI/Reference.md",
     "CrewAI/플랫폼 설계.canvas",
@@ -188,9 +191,6 @@
     "CoAuthor/CoAuthor - Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities.md",
     "개인/2024년 3분기 TODO.md",
     "개인 메모/서버 이중화 세션 이관.md",
-    "개인 메모/SQLP.md",
-    "Pasted image 20240620143019.png",
-    "Pasted image 20240620140828.png",
     "CrewAI",
     "CampusLink",
     "버거킹/인터페이스",
