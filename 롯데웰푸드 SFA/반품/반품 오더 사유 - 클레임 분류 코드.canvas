@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"e31c6154bb357360","type":"text","text":"[VOC] 클레임 분류 코드","x":-660,"y":-580,"width":250,"height":60},
+		{"id":"b4a76eeb1a1fa665","type":"text","text":"[SD] C2204 반품 사유 코드","x":-20,"y":-580,"width":250,"height":60},
+		{"id":"df6656b0e4937c41","type":"file","file":"롯데웰푸드 SFA/반품/클레임 분류 코드.md","x":-735,"y":-460,"width":400,"height":1120,"color":"6"},
+		{"id":"9af58cf9cf4cc607","type":"file","file":"롯데웰푸드 SFA/반품/품질 반품 사유.md","x":-95,"y":-460,"width":400,"height":1120,"color":"6"}
+	],
+	"edges":[
+		{"id":"3e8dbb5c1dad6160","fromNode":"e31c6154bb357360","fromSide":"bottom","toNode":"df6656b0e4937c41","toSide":"top"},
+		{"id":"766c0e661024c360","fromNode":"b4a76eeb1a1fa665","fromSide":"bottom","toNode":"9af58cf9cf4cc607","toSide":"top"}
+	]
+}

@@ -1,0 +1,12 @@
+# 서버 정보
+- IP : 218.55.79.80
+- 계정
+	- 1팀 : intern1team / edu1team
+	- 2팀 : intern2team / edu2team
+- DB 정보
+	- Mysql : root / edu_mcnc123
+		- 2팀 : intern2team / edu_mcnc123 (grant all)
+	- Postgresql : psql
+		- 1팀 : intern1team / edu_mcnc123 (grant all)
+- port 개방
+	- 80 / 8080 / 5432 / 3306

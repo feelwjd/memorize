@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"15cdba57cfddd423","x":-182,"y":-154,"width":250,"height":74,"type":"text","text":"[SFA] LWS3104\nVOC 마스터 등록"},
+		{"id":"c74928ae8dc2044e","type":"text","text":"[SFA] LWS3104\nVOC 이미지 등록 X 3","x":140,"y":-154,"width":250,"height":74},
+		{"id":"e726ea2a9aedefa6","type":"text","text":"[SFA] LWS3104\nreturn index, MATNR, vocId","x":460,"y":-154,"width":250,"height":74}
+	],
+	"edges":[
+		{"id":"c1bbbc8d2da40ddb","fromNode":"15cdba57cfddd423","fromSide":"right","toNode":"c74928ae8dc2044e","toSide":"left"},
+		{"id":"8dfbc580d4692c55","fromNode":"c74928ae8dc2044e","fromSide":"right","toNode":"e726ea2a9aedefa6","toSide":"left"}
+	]
+}
